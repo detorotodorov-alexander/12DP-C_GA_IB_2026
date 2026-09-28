@@ -13,6 +13,6 @@ gantt
     3.1 Get PDB/AlphaFold (Alexander) :t31, after t22, 2d
     3.2 Map variants in 3D (Alexander):t32, after t31, 3d
     section Milestones
-    Gantt delivered                   :milestone, m1, 2026-10-09, 0d
-    Repo freeze                       :milestone, m2, 2026-10-26, 0d
+    M1 Gantt chart delivered          :milestone, m1, 2026-10-09, 0d
+    M2 Repo freeze                    :milestone, m2, 2026-10-26, 0d
 ```
