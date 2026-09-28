@@ -1,3 +1,4 @@
+ˋˋˋmermaid
 gantt
     title Disease Project – live Gantt
     dateFormat DD-MM-YYYY
@@ -59,3 +60,4 @@ gantt
     M3 Status retrospective                   :milestone, m3, 22-10-2026, 0d
     M4 Repo frozen 18h                        :milestone, m4, 26-10-2026, 0d
     M5 Oral defence                           :milestone, m5, 05-11-2026, 0d
+ˋˋˋ
