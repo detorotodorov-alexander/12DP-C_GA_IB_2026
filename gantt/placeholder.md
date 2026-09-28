@@ -1,7 +1,7 @@
 ```mermaid
 gantt
-    title Disease Project – Gantt v1
-    dateFormat YYYY-MM-DD
+    title Disease Project – Gantt Draft 28/09
+    dateFormat DD-MM-YYYY
     excludes weekends, 2026-10-12
     section WP1 Setup
     1.1 Repo + folders (Arseniy)      :done, t11, 2026-09-28, 2d
@@ -14,5 +14,5 @@ gantt
     3.2 Map variants in 3D (Alexander):t32, after t31, 3d
     section Milestones
     M1 Gantt chart delivered          :milestone, m1, 2026-10-09, 0d
-    M2 Repo freeze                    :milestone, m2, 2026-10-26, 0d
+    M2 Repo freeze                    :crit, milestone, m2, 2026-10-26, 0d
 ```
