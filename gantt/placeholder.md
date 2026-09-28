@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title Disease Project – live Gantt
+    title Disease Project – Gantt draft
     dateFormat DD-MM-YYYY
     axisFormat %d %b
     excludes weekends, 12-10-2026
