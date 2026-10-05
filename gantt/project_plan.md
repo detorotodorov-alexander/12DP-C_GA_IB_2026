@@ -16,7 +16,14 @@ To explain how pathogenic variants in the *GSN* gene alter the sequence, structu
 - **SO4 – Evolution (WP5):** Compare human gelsolin with its *Equus caballus* and *Mus musculus* orthologues through multiple sequence alignment, and quantify the conservation of residue D187 and of the key functional domains.
 
 ### Milestones
-
+| ID | Milestone | Planned date |
+|---|---|---|
+| M1 | Gantt v1 and risk analysis submitted | 09/10/2026 |
+| M2 | Variants (D187N, D187Y) and numbering convention confirmed | 09/10/2026 |
+| M3 | Core analyses completed (structural comparison and MSA) | 20/10/2026 |
+| M4 | Project Status retrospective | 22/10/2026 |
+| M5 | Repository frozen (final delivery, 18:00) | 28/10/2026 |
+| M6 | Oral defence | TBC |
 ### Project Members & Roles
 
 ---
