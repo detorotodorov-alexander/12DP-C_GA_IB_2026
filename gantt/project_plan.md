@@ -20,7 +20,7 @@ To explain how pathogenic variants in the *GSN* gene alter the sequence, structu
 |---|---|---|
 | M1 | Gantt v1 and risk analysis submitted | 09/10/2026 |
 | M2 | Variants (D187N, D187Y) and numbering convention confirmed | 09/10/2026 |
-| M3 | Core analyses completed (structural comparison and MSA) | 20/10/2026 |
+| M3 | Core analyses completed (structural comparison and MSA) | 19/10/2026 |
 | M4 | Project Status retrospective | 22/10/2026 |
 | M5 | Repository frozen (final delivery, 18:00) | 28/10/2026 |
 | M6 | Oral defence | TBC |
