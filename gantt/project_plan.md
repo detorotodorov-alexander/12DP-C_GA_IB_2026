@@ -25,7 +25,9 @@ To explain how pathogenic variants in the *GSN* gene alter the sequence, structu
 | M5 | Repository frozen (final delivery, 18:00) | 28/10/2026 |
 | M6 | Oral defence | TBC |
 ### Project Members & Roles
-
+| Member | Academic background | Project role | Responsibilities |
+|---|---|---|---|
+| Biel | 1st-year student, BSc in Bioinformatics (UPC/UB/UAB) | Product Owner & Scientific Writer | Defines scientific priorities and scope, accepts deliverables and ensures the coherence of the final report. Leads WP4 (patient impact) and WP6 (report). |
 ---
 
 ## 2. Work Packages and Tasks
