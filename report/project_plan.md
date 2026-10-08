@@ -117,9 +117,9 @@ Risks were identified during planning and scored with a 3-point scale (**Score =
 | R2 | Inconsistent residue numbering (mature protein vs precursor) | 3 | 2 | 6 | High | Isaac | 2.3, 6.6 | Open |
 | R3 | Delay on the critical path (structural comparison 3.4) | 2 | 3 | 6 | High | Alexander | 3.4, 6.3, 6.6 | Open |
 | R4 | A team member becomes temporarily unavailable | 2 | 2 | 4 | Medium | Isaac | 7.1 | Open |
-| R5 | Incomplete or ambiguous ortholog records (horse/mouse isoforms) | 2 | 2 | 4 | Medium | Arseny | 5.2, 5.3 | Open |
+| R5 | Incomplete or ambiguous ortholog records (horse/mouse isoforms) | 2 | 2 | 4 | Medium | Arseniy | 5.2, 5.3 | Open |
 | R6 | Report exceeds the length or figure limits (7 pages / 5000 words / 5 figures) | 2 | 2 | 4 | Medium | Biel | 6.1, 6.6 | Open |
-| R7 | Merge conflicts or lost work in shared files | 2 | 1 | 2 | Low | Arseny | 1.3, 7.3 | Open |
+| R7 | Merge conflicts or lost work in shared files | 2 | 1 | 2 | Low | Arseniy | 1.3, 7.3 | Open |
 
 ### Analysis and contingency plans
 
