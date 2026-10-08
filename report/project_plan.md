@@ -30,6 +30,7 @@ To explain how pathogenic variants in the *GSN* gene alter the sequence, structu
 | Biel | 1st-year student, BSc in Bioinformatics (UAB/UB/UPC/UPF) | Product Owner & Scientific Writer | Defines scientific priorities and scope, accepts deliverables and ensures the coherence of the final report. Leads WP4 (patient impact) and WP6 (report). |
 | Alexander | 1st-year student, BSc in Bioinformatics (UAB/UB/UPC/UPF) | Project & Structure Manager | Plans and tracks the project (Gantt), coordinates the team and submits deliverables. Leads WP1 (setup & planning), WP3 (structure) and WP7 (project management). |
 | Isaac | 1st-year student, BSc in Bioinformatics (UAB/UB/UPC/UPF) | Scrum Master & Data Curator | Maintains the Project Status document, removes blockers and facilitates team coordination. Leads WP2 (gene/protein records and variants) and the annotated bibliography and references. |
+| Arseniy   | 1st-year student, BSc in Bioinformatics | Developer & Sequence Analyst | retrieves orthologues and performs the multiple sequence alignment and conservation analysis. Leads WP5 (evolution) and maintains the README and repository conventions. | 
 
 ## 2. Work Packages and Tasks
 
