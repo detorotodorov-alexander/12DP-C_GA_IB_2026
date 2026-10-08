@@ -43,7 +43,7 @@ To explain how pathogenic variants in the *GSN* gene alter the sequence, structu
 | WP2 | Cause (B1) | Isaac | 06/10/2026 | 14/10/2026 | 6 |
 | WP3 | Structure (B2) | Alexander | 08/10/2026 | 19/10/2026 | 7 |
 | WP4 | Patient impact (B3) | Biel | 06/10/2026 | 21/10/2026 | 11 |
-| WP5 | Evolution (B4) | Arseny | 05/10/2026 | 15/10/2026 | 8 |
+| WP5 | Evolution (B4) | Arseniy | 05/10/2026 | 15/10/2026 | 8 |
 | WP6 | Report | Biel | 06/10/2026 | 27/10/2026 | 15 |
 | WP7 | Project management | Alexander | 05/10/2026 | 28/10/2026 | 17 |
 | WP8 | Defence (provisional, pending M6 date) | All | 29/10/2026 | 04/11/2026 | 4 |
