@@ -17,7 +17,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 1.7 | Review and submit Gantt v1 | Alexander, Biel | 09/10 | 09/10 | 09/10 |  | In progress |  |
 | 2.1 | Get the gene and protein records | Isaac | 30/09 | 05/10 |  |  | Pending |  |
 | 2.2 | Collect evidence on pathogenic variants | Isaac | 06/10 | 08/10 |  |  | Pending |  |
-| 2.3 | Confirm D187N/D187Y and the numbering | All | 09/10 | 09/10 |  |  | Pending |  |
+| 2.3 | Confirm the assigned variant and the numbering | All | 09/10 | 09/10 |  |  | Pending |  |
 | 2.4 | Describe how normal gelsolin works | Isaac | 13/10 | 14/10 |  |  | Pending |  |
 | 3.1 | Choose the reference PDB structure | Alexander | 13/10 | 13/10 |  |  | Pending |  |
 | 3.2 | Show the variants on the structure | Alexander | 14/10 | 14/10 |  |  | Pending |  |
@@ -28,7 +28,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 4.2 | How the disease develops | Biel | 07/10 | 14/10 |  |  | Pending |  |
 | 4.3 | Link each variant to the symptoms | Biel, Isaac | 20/10 | 21/10 |  |  | Pending |  |
 | 5.1 | Choose the species | Arseniy | 06/10 | 07/10 |  |  | Pending |  |
-| 5.2 | Get the horse and mouse sequences | Arseniy | 08/10 | 09/10 |  |  | Pending |  |
+| 5.2 | Get the horse and second-species sequences | Arseniy | 08/10 | 09/10 |  |  | Pending |  |
 | 5.3 | Align the three sequences | Arseniy | 13/10 | 14/10 |  |  | Pending |  |
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | 15/10 | 16/10 |  |  | Pending |  |
 | 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 |  |  | Pending |  |

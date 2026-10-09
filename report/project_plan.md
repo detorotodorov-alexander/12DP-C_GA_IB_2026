@@ -12,14 +12,14 @@ Gantt chart and risk analysis, version 1 (submitted 9 October 2026).
 
 ### General objective
 
-Explain how the D187N and D187Y variants in the *GSN* gene change the gelsolin protein and lead to Gelsolin Amyloidosis, and check whether the affected region is conserved in horse (*Equus caballus*) and mouse (*Mus musculus*).
+Explain how the pathogenic *GSN* variant assigned to us changes the gelsolin protein, starting from the healthy human gene we are given, and leads to Gelsolin Amyloidosis, and check whether the affected region is conserved in horse (*Equus caballus*) and a second species we are still deciding between mouse (*Mus musculus*) and fly (*Drosophila melanogaster*).
 
 ### Specific objectives
 
-1. **Cause (WP2):** collect the human *GSN* gene and gelsolin protein records from UniProt, NCBI and Ensembl, and explain why we chose D187N and D187Y.
+1. **Cause (WP2):** collect the healthy human *GSN* gene and gelsolin protein records from UniProt, NCBI and Ensembl, and explain the pathogenic variant we have been assigned.
 2. **Structure (WP3):** place both variants on an experimental gelsolin structure and describe what changes around residue 187, especially at the calcium-binding site.
 3. **Patient impact (WP4):** connect what happens to the protein with amyloid formation and with the symptoms patients have.
-4. **Evolution (WP5):** align human, horse and mouse gelsolin and measure how conserved D187 and the main domains are.
+4. **Evolution (WP5):** align human, horse and a second species (mouse or fly, still to decide) gelsolin and measure how conserved D187 and the main domains are.
 
 ### Milestones
 
@@ -39,7 +39,7 @@ All four of us are first-year students of the Bachelor's degree in Bioinformatic
 | Member | Role | What they do |
 |---|---|---|
 | Alexander | Planning and structure | Makes and updates the Gantt, keeps track of deadlines and submits the deliverables. Leads WP1, WP3 and WP7. |
-| Arseniy | Sequences and evolution | Gets the horse and mouse sequences and does the alignment and conservation analysis. Leads WP5 and looks after the README and how we use the repo. |
+| Arseniy | Sequences and evolution | Gets the horse and second-species sequences (mouse or fly, still deciding) and does the alignment and conservation analysis. Leads WP5 and looks after the README and how we use the repo. |
 | Biel | Report and clinical side | Decides what goes into the report and makes sure it reads as one text. Leads WP4 and WP6. |
 | Isaac | Gene, variants and references | Keeps the status document up to date and the reference list in order. Leads WP2. |
 
@@ -143,7 +143,7 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 |---|---|---|---|---|---|---|---|
 | 2.1 ★ | Get the gene and protein records | Isaac | FASTA files + table of IDs | 4 | 30/09 – 05/10 | 1.2 | The human *GSN* and gelsolin sequences are in the repo with their UniProt, NCBI and Ensembl IDs. |
 | 2.2 ★ | Collect evidence on pathogenic variants | Isaac | Variant table | 3 | 06/10 – 08/10 | 2.1 | A table lists the known variants with position, change, disease and source. |
-| 2.3 ★ | Confirm D187N/D187Y and the numbering | All | Short justification + numbering note | 1 | 09/10 | 2.2 | We have written why we chose these two variants and which numbering we use. |
+| 2.3 ★ | Confirm the assigned variant and the numbering | All | Short justification + numbering note | 1 | 09/10 | 2.2 | We have written which variant we were given and which numbering we use. |
 | 2.4 | Describe how normal gelsolin works | Isaac | Summary of domains and function | 2 | 13/10 – 14/10 | 2.1 | The six domains, calcium activation and actin cutting are explained with references. |
 
 #### WP3 · Structure — lead Alexander · 09/10 – 19/10 · 6 days
@@ -152,7 +152,7 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 |---|---|---|---|---|---|---|---|
 | 3.1 | Choose the reference PDB structure | Alexander | PDB ID + reason | 1 | 13/10 | 2.3 | We have picked one structure and explained why (resolution, domain G2, calcium bound). |
 | 3.2 ★ | Show the variants on the structure | Alexander | Figure of D187 in domain G2 | 1 | 14/10 | 2.3, 3.1 | The figure shows residue 187, domain G2 and the calcium site, and it is in files/figures/. |
-| 3.3 | Look for structures of the variants | Biel | Search results | 1 | 09/10 | 2.2 | We know whether the PDB has a usable D187N or D187Y structure. |
+| 3.3 | Look for structures of the variant | Biel | Search results | 1 | 09/10 | 2.2 | We know whether the PDB has a usable structure of our assigned variant. |
 | 3.4 ★ | Compare normal vs variant around residue 187 | Alexander, Biel | Comparison figure + text | 3 | 15/10 – 19/10 | 3.2, 3.3 | The figure compares calcium binding and contacts in both cases and the differences are explained. |
 | 3.4b | Backup: build the variants in PyMOL | Alexander | Modelled structures | 2 | 13/10 – 14/10 | 3.3 | Only if 3.3 finds nothing: the models are saved in the repo and their limits are explained. |
 
@@ -169,7 +169,7 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 | ID | Task | Owner | Output | Days | Dates | Depends on | Done when |
 |---|---|---|---|---|---|---|---|
 | 5.1 | Choose the species | Arseniy | Short justification | 2 | 06/10 – 14/10 | 2.1 | The reasoning behind the choice of the 2 other species is written down and explained. |
-| 5.2 | Get the horse and mouse sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 14/10 | 2.1, 5.1 | All relevant sequences are written in the report. |
+| 5.2 | Get the horse and second-species sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 14/10 | 2.1, 5.1 | All relevant sequences are written in the report. |
 | 5.3 | Align the three sequences | Arseniy | Alignment file | 2 | 13/10 – 14/10 | 5.2 | The alignment is in the repo, with the tool and settings written down. |
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | Annotated alignment figure + identity table | 2 | 15/10 – 16/10 | 2.3, 5.3 | Position 187 and the domains are highlighted and identity per domain is in a table. |
 
@@ -214,19 +214,19 @@ Each risk gets a likelihood (L) and an impact (I) from 1 to 3. **Score = L × I*
 | R2 | Sources number the residue differently (187 vs 214) | 3 | 2 | 6 | High | Isaac |
 | R3 | The structure comparison (3.4) takes longer than planned | 2 | 3 | 6 | High | Alexander |
 | R4 | One of us is away on a day when a critical task is due | 3 | 2 | 6 | High | Isaac |
-| R5 | Horse or mouse records are unreviewed or have several isoforms | 2 | 2 | 4 | Medium | Arseniy |
+| R5 | Horse or second-species records are unreviewed or have several isoforms | 2 | 2 | 4 | Medium | Arseniy |
 | R6 | The report goes over the page, word or figure limit | 2 | 2 | 4 | Medium | Biel |
 | R7 | We make mistakes with git and GitHub (unneeded branches, wrong merges, lost changes) | 3 | 1 | 3 | Medium | Arseniy |
 
-**R1.** Our identified risk is that there is no experimental structure of gelsolin with D187N or D187Y, we have realized because most gelsolin structures in the PDB are of the normal protein or of single domains; our contingency plan consists of building the two variants in PyMOL on the normal structure (task 3.4b) and saying clearly that they are models, not experimental data. We will know on 9 October, after task 3.3.
+**R1.** Our identified risk is that there is no experimental structure of gelsolin with our assigned variant, we have realized because most gelsolin structures in the PDB are of the normal protein or of single domains; our contingency plan consists of building the variant in PyMOL on the normal structure (task 3.4b) and saying clearly that it is a model, not experimental data. We will know on 9 October, after task 3.3.
 
 **R2.** Our identified risk is that the same residue appears with different numbers (for example D187 and D214), we have realized because papers number the mature protein while UniProt counts the signal peptide too; our contingency plan consists of choosing one numbering in task 2.3, keeping a small conversion table in the repo and checking every number in the final review (6.6).
 
-**R3.** Our identified risk is that the structure comparison (3.4) is late, we have realized because it is the longest task on the critical path and 4.3 and 6.4 wait for it; our contingency plan consists of starting the report drafts (6.3) without waiting for it, keeping 27 and 28 October as buffer, and studying only D187N if 3.4 is not done by 19 October.
+**R3.** Our identified risk is that the structure comparison (3.4) is late, we have realized because it is the longest task on the critical path and 4.3 and 6.4 wait for it; our contingency plan consists of starting the report drafts (6.3) without waiting for it, keeping 27 and 28 October as buffer, and reducing the comparison to the single most informative region of the protein if 3.4 is not done by 19 October.
 
 **R4.** Our identified risk is that one of us is away on a day when a critical-path task is due, we have realized because several of us travel during the term (Alexander, for example, will be away more than once in October) and the project overlaps with other courses; our contingency plan consists of planning with margin: critical tasks are finished at least one working day before the task that depends on them, 27 and 28 October are kept free as buffer, each work package has a backup member (Alexander ↔ Arseniy, Isaac ↔ Biel), and everyone writes their absences in the status document in advance.
 
-**R5.** Our identified risk is that the horse or mouse gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries if they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
+**R5.** Our identified risk is that the horse or second-species gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries if they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
 
 **R6.** Our identified risk is going over 7 pages, 5000 words or 5 figures, we have realized because the disease mechanism plus three analyses is a lot to fit; our contingency plan consists of deciding the figures now (from 3.2, 3.4 and 5.4, plus at most two tables), giving each section a word limit and counting words in task 6.6.
 
