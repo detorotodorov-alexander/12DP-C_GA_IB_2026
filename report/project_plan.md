@@ -131,7 +131,7 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 |---|---|---|---|---|---|---|---|
 | 1.1 | Create the repo and folders | Alexander | Repo with report/, status/, gantt/, references/, files/ | 1 | 28/09 | — | The repo exists and all four of us can push to it. |
 | 1.2 | Read the brief and the rubric | All | List of open questions | 2 | 28/09 – 29/09 | — | We have all read the Overview, Formal Requirements, BMC template and rubric. |
-| 1.3 | Write the README and repo rules | Arseniy | README.md | 2 | 29/09 – 30/09 | 1.1 | The README explains the project, the folders and how we name commits. |
+| 1.3 | Write the README and report rules | Arseniy | README.md | 2 | 29/09 – 30/09 | 1.1 | The README explains the project, the folders, and provides information about the authors of the report  |
 | 1.4 | Agree on scope, objectives and roles | All | Section 1 of this file | 1 | 05/10 | 1.2 | Objectives, milestones and roles are written here and we all agree. |
 | 1.5 | Draft the Gantt and risk analysis | Alexander | Draft of this file | 3 | 30/09 – 02/10 | 1.2 | Every task has an owner, output, duration, dates and a "done when". |
 | 1.6 | Set up the status document | Isaac | status/project_status.md | 2 | 01/10 – 02/10 | 1.1 | The status document lists every task with its owner, dates and status. |
@@ -168,8 +168,8 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 
 | ID | Task | Owner | Output | Days | Dates | Depends on | Done when |
 |---|---|---|---|---|---|---|---|
-| 5.1 | Choose the species | Arseniy | Short justification | 2 | 06/10 – 07/10 | 2.1 | We have written why we compare with horse and mouse. |
-| 5.2 | Get the horse and mouse sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 09/10 | 2.1, 5.1 | The three sequences are in the repo with their accession numbers and the isoform used. |
+| 5.1 | Choose the species | Arseniy | Short justification | 2 | 06/10 – 14/10 | 2.1 | The reasoning behind the choice of the 2 other species is written down and explained. |
+| 5.2 | Get the horse and mouse sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 14/10 | 2.1, 5.1 | All relevant sequences are written in the report. |
 | 5.3 | Align the three sequences | Arseniy | Alignment file | 2 | 13/10 – 14/10 | 5.2 | The alignment is in the repo, with the tool and settings written down. |
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | Annotated alignment figure + identity table | 2 | 15/10 – 16/10 | 2.3, 5.3 | Position 187 and the domains are highlighted and identity per domain is in a table. |
 
@@ -226,8 +226,8 @@ Each risk gets a likelihood (L) and an impact (I) from 1 to 3. **Score = L × I*
 
 **R4.** Our identified risk is that one of us is away on a day when a critical-path task is due, we have realized because several of us travel during the term (Alexander, for example, will be away more than once in October) and the project overlaps with other courses; our contingency plan consists of planning with margin: critical tasks are finished at least one working day before the task that depends on them, 27 and 28 October are kept free as buffer, each work package has a backup member (Alexander ↔ Arseniy, Isaac ↔ Biel), and everyone writes their absences in the status document in advance.
 
-**R5.** Our identified risk is that the horse or mouse/fly gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries when they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
+**R5.** Our identified risk is that the horse or mouse gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries if they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
 
 **R6.** Our identified risk is going over 7 pages, 5000 words or 5 figures, we have realized because the disease mechanism plus three analyses is a lot to fit; our contingency plan consists of deciding the figures now (from 3.2, 3.4 and 5.4, plus at most two tables), giving each section a word limit and counting words in task 6.6.
 
-**R7.** Our identified risk is that we make mistakes with git and GitHub, such as creating branches we do not need, merging in the wrong direction or overwriting each other's work, we have realized because we are new to both tools and it has already happened (we created extra branches and one personal branch did not share history with main); our contingency plan consists of each of us working only on our own branch and merging into main through a pull request reviewed by another member, committing often, and asking an LLM to explain each git step before we run it, as the course allows using GenAI to understand concepts (we still run the commands and make the commits ourselves).
+**R7.** Our identified risk is that we make mistakes with git and GitHub, such as creating branches we do not need, merging in the wrong direction or overwriting each other's work, we have realized because we are new to both tools and it has already happened (we created extra branches and one personal branch did not share history with main); our plan to avoid this issue consists of each of us working only on our own branch and merging into main through a pull request reviewed by another member, committing often, notifying others if making any changes to the main branch, and asking an LLM to explain each git step before we run it, as the course allows using GenAI to understand concepts (we still run the commands and make the commits ourselves).
