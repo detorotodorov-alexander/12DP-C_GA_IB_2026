@@ -213,10 +213,10 @@ Each risk gets a likelihood (L) and an impact (I) from 1 to 3. **Score = L × I*
 | R1 | There is no experimental structure of the variants | 2 | 3 | 6 | High | Alexander |
 | R2 | Sources number the residue differently (187 vs 214) | 3 | 2 | 6 | High | Isaac |
 | R3 | The structure comparison (3.4) takes longer than planned | 2 | 3 | 6 | High | Alexander |
-| R4 | One of us is unavailable for some days | 2 | 2 | 4 | Medium | Isaac |
+| R4 | One of us is away on a day when a critical task is due | 3 | 2 | 6 | High | Isaac |
 | R5 | Horse or mouse records are unreviewed or have several isoforms | 2 | 2 | 4 | Medium | Arseniy |
 | R6 | The report goes over the page, word or figure limit | 2 | 2 | 4 | Medium | Biel |
-| R7 | We overwrite each other's work in the repo | 2 | 1 | 2 | Low | Arseniy |
+| R7 | We make mistakes with git and GitHub (unneeded branches, wrong merges, lost changes) | 3 | 1 | 3 | Medium | Arseniy |
 
 **R1.** Our identified risk is that there is no experimental structure of gelsolin with D187N or D187Y, we have realized because most gelsolin structures in the PDB are of the normal protein or of single domains; our contingency plan consists of building the two variants in PyMOL on the normal structure (task 3.4b) and saying clearly that they are models, not experimental data. We will know on 9 October, after task 3.3.
 
@@ -224,10 +224,10 @@ Each risk gets a likelihood (L) and an impact (I) from 1 to 3. **Score = L × I*
 
 **R3.** Our identified risk is that the structure comparison (3.4) is late, we have realized because it is the longest task on the critical path and 4.3 and 6.4 wait for it; our contingency plan consists of starting the report drafts (6.3) without waiting for it, keeping 27 and 28 October as buffer, and studying only D187N if 3.4 is not done by 19 October.
 
-**R4.** Our identified risk is that one of us cannot work for a few days, we have realized because the project overlaps with other courses and we can get ill; our contingency plan consists of having a backup for each work package (Alexander ↔ Arseniy, Isaac ↔ Biel) and updating the status document twice a week so someone else can continue.
+**R4.** Our identified risk is that one of us is away on a day when a critical-path task is due, we have realized because several of us travel during the term (Alexander, for example, will be away more than once in October) and the project overlaps with other courses; our contingency plan consists of planning with margin: critical tasks are finished at least one working day before the task that depends on them, 27 and 28 October are kept free as buffer, each work package has a backup member (Alexander ↔ Arseniy, Isaac ↔ Biel), and everyone writes their absences in the status document in advance.
 
-**R5.** Our identified risk is that the horse or mouse gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries when they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
+**R5.** Our identified risk is that the horse or mouse/fly gelsolin record is not reviewed or has several isoforms, we have realized because the horse entry may not be curated and gelsolin has a plasma and a cytoplasmic form; our contingency plan consists of using reviewed Swiss-Prot entries when they exist, comparing the same isoform in all three species and cross-checking with Ensembl and RefSeq.
 
 **R6.** Our identified risk is going over 7 pages, 5000 words or 5 figures, we have realized because the disease mechanism plus three analyses is a lot to fit; our contingency plan consists of deciding the figures now (from 3.2, 3.4 and 5.4, plus at most two tables), giving each section a word limit and counting words in task 6.6.
 
-**R7.** Our identified risk is overwriting or losing work in shared files like report.md, we have realized because the four of us edit the same files on GitHub; our contingency plan consists of telling the group chat before editing, always pulling first, one section per person, and using branches for long drafts.
+**R7.** Our identified risk is that we make mistakes with git and GitHub, such as creating branches we do not need, merging in the wrong direction or overwriting each other's work, we have realized because we are new to both tools and it has already happened (we created extra branches and one personal branch did not share history with main); our contingency plan consists of each of us working only on our own branch and merging into main through a pull request reviewed by another member, committing often, and asking an LLM to explain each git step before we run it, as the course allows using GenAI to understand concepts (we still run the commands and make the commits ourselves).
