@@ -168,9 +168,9 @@ The project runs from 28/09/2026 to 04/11/2026 (27 working days). Days are worki
 
 | ID | Task | Owner | Output | Days | Dates | Depends on | Done when |
 |---|---|---|---|---|---|---|---|
-| 5.1 | Choose the species | Arseniy | Short justification | 2 | 06/10 – 14/10 | 2.1 | The reasoning behind the choice of the 2 other species is written down and explained. |
-| 5.2 | Get the horse and second-species sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 14/10 | 2.1, 5.1 | All relevant sequences are written in the report. |
-| 5.3 | Align the three sequences | Arseniy | Alignment file | 2 | 13/10 – 14/10 | 5.2 | The alignment is in the repo, with the tool and settings written down. |
+| 5.1 | Choose the species | Arseniy | Short justification | 2 | 06/10 – 16/10 | 2.1 | The reasoning behind the choice of the 2 other species is written down and explained. |
+| 5.2 | Get the horse and second-species sequences | Arseniy | FASTA of the 3 sequences | 2 | 08/10 – 16/10 | 2.1, 5.1 | All relevant sequences are written in the report. |
+| 5.3 | Align the three sequences | Arseniy | Alignment file | 2 | 13/10 – 16/10 | 5.2 | The alignment is in the repo, with the tool and settings written down. |
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | Annotated alignment figure + identity table | 2 | 15/10 – 16/10 | 2.3, 5.3 | Position 187 and the domains are highlighted and identity per domain is in a table. |
 
 #### WP6 · Report — lead Biel · 05/10 – 27/10 · 16 days
