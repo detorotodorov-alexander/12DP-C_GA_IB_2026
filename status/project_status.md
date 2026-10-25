@@ -17,7 +17,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 1.5 | Draft the Gantt and risk analysis | Alexander | 30/09 | 02/10 | 28/09 | 09/10 | Completed | Gantt draft from 28/09; risk analysis added 05/10 (Biel) and rewritten 09/10. |
 | 1.6 | Set up the status document | Isaac | 01/10 | 02/10 | 09/10 | 09/10 | Completed | Late: planned 01–02/10, created 09/10. |
 | 1.7 | Review and submit Gantt v1 | Alexander, Biel | 09/10 | 09/10 | 09/10 | 09/10 | Completed | Submitted on time. Teacher feedback received (see "Feedback" below). |
-| 2.1 | Get the gene and protein records | Isaac | 30/09 | 05/10 | 15/10 | 19/10 | Completed | Done by Arseniy and Biel (`files/data/`): GSN NM_000177.5 / NP_937895.1, chr 9q33.2. Owner change not recorded at the time. |
+| 2.1 | Get the gene and protein records | Isaac | 30/09 | 05/10 | 19/10 | 19/10 | Completed | Late. Human records and database IDs in `files/data/gsn_records_summary.md`; stayed on branch usr/dg-isc until 25/10 (merge delayed). |
 | 2.2 | Collect evidence on pathogenic variants | Isaac | 06/10 | 08/10 | 24/10 |  | In progress | Late (Incident 2.x). Focus reduced to the assigned variant D187N and the closely related D187Y. |
 | 2.3 | Confirm the assigned variant and the numbering | All | 09/10 | 09/10 | 19/10 | 24/10 | In progress | Variant identified 19/10 (c.640G>A, p.Asp214Asn). Numbering conversion table (precursor 214 = mature 187) being added: mitigation of R2. |
 | 2.4 | Describe how normal gelsolin works | Isaac | 13/10 | 14/10 | 24/10 |  | In progress | Late. Written directly as part of the report Background. |
