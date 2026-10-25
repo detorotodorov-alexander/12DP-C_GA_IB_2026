@@ -1,0 +1,54 @@
+Query: GA_protein_WT Query ID: lcl|Query_1859359 Length: 782
+
+
+>NP_001075422.1:1-731 gelsolin [Equus caballus]
+Sequence ID: Query_1859361 Length: 731
+Range 1: 1 to 731
+
+Score:1445 bits(3740), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:692/731(95%), Positives:711/731(97%), Gaps:0/731(0%)
+
+Query  52   MVVEHPEFLKAGKEPGLQIWRVEKFDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYD  111
+Sbjct  1    ...............................P.......................I....  60
+
+Query  112  LHYWLGNECSQDESGAAAIFTVQLDDYLNGRAVQHREVQGFESATFLGYFKSGLKYKKGG  171
+Sbjct  61   ............................................................  120
+
+Query  172  VASGFKHVVPNEVVVQRLFQVKGRRVVRATEVPVSWESFNNGDCFILDLGNNIHQWCGSN  231
+Sbjct  121  ..................L..................................Y.....K  180
+
+Query  232  SNRYERLKATQVSKGIRDNERSGRARVHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKED  291
+Sbjct  181  ...F.....................Q.S.F...A.............T..EA....V...  240
+
+Query  292  AANRKLAKLYKVSNGAGTMSVSLVADENPFAQGALKSEDCFILDHGKDGKIFVWKGKQAN  351
+Sbjct  241  .................P.V...............R........................  300
+
+Query  352  TEERKAALKTASDFITKMDYPKQTQVSVLPEGGETPLFKQFFKNWRDPDQTDGLGLSYLS  411
+Sbjct  301  M..............S......................R............E....A...  360
+
+Query  412  SHIANVERVPFDAATLHTSTAMAAQHGMDDDGTGQKQIWRIEGSNKVPVDPATYGQFYGG  471
+Sbjct  361  ....H...................................V...................  420
+
+Query  472  DSYIILYNYRHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEELGGTPVQSRVVQGKE  531
+Sbjct  421  ............S...............................................  480
+
+Query  532  PAHLMSLFGGKPMIIYKGGTSREGGQTAPASTRLFQVRANSAGATRAVEVLPKAGALNSN  591
+Sbjct  481  ..............V........................S.S.......II.........  540
+
+Query  592  DAFVLKTPSAAYLWVGTGASEAEKTGAQELLRVLRAQPVQVAEGSEPDGFWEALGGKAAY  651
+Sbjct  541  ................A...............................S.........T.  600
+
+Query  652  RTSPRLKDKKMDAHPPRLFACSNKIGRFVIEEVPGELMQEDLATDDVMLLDTWDQVFVWV  711
+Sbjct  601  ....................................F.......................  660
+
+Query  712  GKDSQEEEKTEALTSAKRYIETDPANRDRRTPITVVKQGFEPPSFVGWFLGWDDDYWSVD  771
+Sbjct  661  .....D..............D....H............................S.....  720
+
+Query  772  PLDRAMAELAA  782
+Sbjct  721  .....L.....  731
+
+
+
+
+
