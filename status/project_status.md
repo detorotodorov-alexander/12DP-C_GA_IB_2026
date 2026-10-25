@@ -4,7 +4,7 @@ Live document, updated at least twice a week (task 7.1, Isaac) and reviewed in t
 
 Status: Pending · In progress · Completed · Incident · Backlog · Canceled. When something changes, write why in Notes.
 
-**Updated up to 24/10/2026**
+**Updated up to 25/10/2026**
 
 > **Schedule incident (detected 24/10):** Gantt v1 placed the end of the project on 28/10, but the official deadline is **Monday 26/10 at 22:00** (Disease Project Overview). Tasks 6.4–6.6 and 7.4 have been re-planned inside 24/10–26/10, and the WP8 (oral defence) dates remain to be confirmed. The re-planning is reflected in the live Gantt and will be analysed in task 7.4.
 
@@ -19,7 +19,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 1.7 | Review and submit Gantt v1 | Alexander, Biel | 09/10 | 09/10 | 09/10 | 09/10 | Completed | Submitted on time. Teacher feedback received (see "Feedback" below). |
 | 2.1 | Get the gene and protein records | Isaac | 30/09 | 05/10 | 19/10 | 19/10 | Completed | Late. Human records and database IDs in `files/data/gsn_records_summary.md`; stayed on branch usr/dg-isc until 25/10 (merge delayed). |
 | 2.2 | Collect evidence on pathogenic variants | Isaac | 06/10 | 08/10 | 24/10 |  | In progress | Late (Incident 2.x). Focus reduced to the assigned variant D187N and the closely related D187Y. |
-| 2.3 | Confirm the assigned variant and the numbering | All | 09/10 | 09/10 | 19/10 | 24/10 | In progress | Variant identified 19/10 (c.640G>A, p.Asp214Asn). Numbering conversion table (precursor 214 = mature 187) being added: mitigation of R2. |
+| 2.3 | Confirm the assigned variant and the numbering | All | 09/10 | 09/10 | 19/10 | 24/10 | Completed | Variant c.640G>A, p.Asp214Asn = D187N. Conversion table in `files/data/residue_numbering.md` (mitigation of R2). |
 | 2.4 | Describe how normal gelsolin works | Isaac | 13/10 | 14/10 | 24/10 |  | In progress | Late. Written directly as part of the report Background. |
 | 3.1 | Choose the reference PDB structure | Alexander | 13/10 | 13/10 |  |  | Real dates to be confirmed by owner | Structural analysis (human WT, mutant and horse) provided by the teaching team; record date received. |
 | 3.2 | Show the variants on the structure | Alexander | 14/10 | 14/10 |  |  | Real dates to be confirmed by owner | Figure of WT D187 vs mutant N187 taken from the teaching-team report. |
@@ -33,15 +33,15 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 5.2 | Get the horse and second-species sequences | Arseniy | 08/10 | 09/10 | 15/10 | 15/10 | Completed | Done by Biel. Curated RefSeq entries; horse record lacks the N-terminal region (R5 partly materialised). |
 | 5.3 | Align the sequences | Arseniy | 13/10 | 14/10 | 19/10 | 19/10 | Completed | Pairwise alignments (WT vs mutant, human vs horse, human vs mouse) in `files/data/`. |
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | 15/10 | 16/10 |  |  | In progress | D187 identical in horse (teaching-team structural report). Mouse and fly to check. |
-| 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 | 17/09 | 17/09 | Completed | Skeleton must be reordered to BMC sections (Background, Results, Discussion, Conclusions, Methods). |
-| 6.2 | Bibliography | Isaac | 09/10 | 14/10 | 24/10 |  | In progress | Late. |
+| 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 | 17/09 | 25/10 | Completed | First skeleton by Biel (17/09); restructured to BMC format with section owners by Isaac (25/10). |
+| 6.2 | Bibliography | Isaac | 09/10 | 14/10 | 24/10 | 25/10 | Completed | Late. 9 sources selected and annotated in `references/README.md` (reviews vs original papers vs databases). |
 | 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 |  | In progress | Late: report still empty on 24/10. |
 | 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 25/10 |  | Pending | Re-planned to 25/10. |
 | 6.5 | Fix references and Declarations | Isaac | 26/10 | 26/10 | 26/10 |  | Pending | Re-planned: must be finished before 18:00 on 26/10. |
 | 6.6 | Final review (buffer day) | All | 27/10 | 27/10 | 26/10 |  | Pending | Re-planned from 27/10 to 26/10 (18:00–21:30): original date was after the deadline. |
 | 7.1 | Keep the status document updated | Isaac | 01/10 | 28/10 | 09/10 |  | Incident | Not updated between 09/10 and 24/10. Updated again from 24/10. |
 | 7.2 | Keep the live Gantt updated | Alexander | 13/10 | 28/10 |  |  | Incident | Live Gantt not updated since 09/10. |
-| 7.3 | Save every source in references/ | All | 28/09 | 28/10 | 24/10 |  | In progress | `references/` was empty on 24/10. |
+| 7.3 | Save every source in references/ | All | 28/09 | 28/10 | 24/10 |  | In progress | 9 sources stored by Isaac (25/10). Full text of 3 papers not available via UPC/CSUC: abstracts stored. Add any new source used in the report. |
 | 7.4 | Final Gantt and comparison with v1 | Alexander | 28/10 | 28/10 | 26/10 |  | Pending | Re-planned from 28/10 to 26/10. |
 | 8.1 | Slides | All | 29/10 | 30/10 |  |  | Backlog | Dates to confirm when the defence date is known. |
 | 8.2 | First rehearsal | All | 03/11 | 03/11 |  |  | Backlog |  |
