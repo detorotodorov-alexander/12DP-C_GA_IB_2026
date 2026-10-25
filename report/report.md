@@ -32,7 +32,9 @@ Gelsolin, amyloidosis, *GSN*, D187N, calcium binding, protein structure, sequenc
 *TO DO (Biel): disease background, inheritance, prevalence, symptoms.*
 
 ### The *GSN* gene and the disease-associated variant
-*TO DO (Isaac).*
+Gelsolin is encoded by the *GSN* gene, located on human chromosome 9 (9q33.2; RefSeq NM_000177.5). The gene produces an intracellular (cytoplasmic) and a secreted (plasma) isoform, both composed of six domains (Chen *et al.* 2001). The plasma isoform carries an N-terminal signal peptide of 27 residues that is removed during secretion (UniProt P06396). The sequence analysed in this project corresponds to the plasma gelsolin precursor (NP_000168.1, 782 residues).
+
+The variant assigned to our team is a single nucleotide substitution, c.640G>A, which replaces an aspartate with an asparagine (p.Asp214Asn in precursor numbering). In this report we use the numbering of the mature protein, standard in the gelsolin literature, in which the variant is named **D187N** (mature position = precursor position − 27; see `files/data/residue_numbering.md`). D187N was the first mutation identified as the cause of hereditary gelsolin amyloidosis, also called familial amyloidosis of Finnish type (FAF) or Meretoja syndrome (Maury *et al.* 1990). The disease is inherited in an autosomal dominant manner (OMIM #105120).
 
 ### Normal function of gelsolin
 *TO DO (Isaac).*
