@@ -88,7 +88,8 @@ These results indicate that the effect of D187N is chemical rather than structur
 *TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
 
 ### Structural analysis
-*TO DO (Alexander): structures used, superposition, RMSD.*
+*TO DO (Alexander): structures used, superposition, RMSD. (I(Biel) have add a little part, Alexander has to complete)*
+Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models, their superposition, global RMSD and per-residue backbone displacement were provided by the course instructors as a structural conservation report. Residue positions are given in mature-protein numbering (D187 = D214 in the precursor).
 
 ## Abbreviations
 
