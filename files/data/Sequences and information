@@ -17,9 +17,9 @@ MAPHRPAPALLCALSLALCALSLPVRAATASRGASQAGAPQGRVPEARPNSMVVEHPEFLKAGKEPGLQIWRVEKFDLVP
 
 Protein information: 
 
-Name: gelsolin (isoform b)
+Name: gelsolin isoform a precursor
 Gene: 2934
-Accession: NP_937895.1
+Accession: NP_000168.1
 
 
 2) Human mutant nucleotide sequence:
@@ -38,9 +38,9 @@ Position 640 // Change: G for A // c.640G>A
 
 Protein information:
 
-Name: gelsolin (isoform b)
+Name: gelsolin isoform a precursor
 Gene: 2934
-Accession: NP_937895.1
+Accession: NP_000168.1
 Identity: 99.86%
 
 3) Mouse gene information:
