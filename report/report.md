@@ -37,7 +37,7 @@ Gelsolin is encoded by the *GSN* gene, located on human chromosome 9 (9q33.2; Re
 The variant assigned to our team is a single nucleotide substitution, c.640G>A, which replaces an aspartate with an asparagine (p.Asp214Asn in precursor numbering). In this report we use the numbering of the mature protein, standard in the gelsolin literature, in which the variant is named **D187N** (mature position = precursor position − 27; see `files/data/residue_numbering.md`). D187N was the first mutation identified as the cause of hereditary gelsolin amyloidosis, also called familial amyloidosis of Finnish type (FAF) or Meretoja syndrome (Maury *et al.* 1990). The disease is inherited in an autosomal dominant manner (OMIM #105120).
 
 ### Normal function of gelsolin
-*TO DO (Isaac).*
+Gelsolin is a calcium-regulated actin-binding protein formed by six homologous domains (G1–G6) (Nag *et al.* 2013). In the absence of Ca²⁺ the protein adopts a compact, inactive conformation; Ca²⁺ binding induces large conformational changes that expose its actin-binding surfaces, allowing gelsolin to sever actin filaments, cap their growing ends and sequester actin monomers (Nag *et al.* 2013). Plasma gelsolin circulates in the blood as part of the actin-scavenging system, which removes actin filaments released from damaged cells (Chen *et al.* 2001, Solomon *et al.* 2012). Ca²⁺ binding does not only activate gelsolin: it also stabilizes the fold of individual domains, which is central to the disease mechanism described below (Kazmirski *et al.* 2002).
 
 ### From the D187N variant to amyloid formation
 *TO DO (Isaac, with Biel for the clinical link).*
