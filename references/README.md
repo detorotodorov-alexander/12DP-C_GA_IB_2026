@@ -1,0 +1,19 @@
+# References
+
+Every source cited in the report is stored in this folder (PDF, or saved web page as PDF for databases). Sources are classified by type and by how important they are for the project.
+
+- **Type:** *Review* (secondary literature, used for general context) · *Original* (primary literature, used for experimentally demonstrated facts and mechanisms) · *Database* (records consulted for sequences, structures, annotations and variants).
+- **Relevance:** **Critical** = the project's main conclusions depend on it · *Context* = helpful to frame the topic.
+- Files ending in `_abstract` contain the PubMed record (abstract) because the full text is not available through the UPC/CSUC subscription.
+
+| File | Reference (Oxford style) | Type | Relevance | What we use it for |
+|---|---|---|---|---|
+| `Chen_2001_EMBOJ.pdf` | Chen CD, Huff ME, Matteson J *et al.* Furin initiates gelsolin familial amyloidosis in the Golgi through a defect in Ca²⁺ stabilization. *EMBO J* 2001;**20**:6277–87. | Original | **Critical** | Shows that D187N/Y gelsolin loses Ca²⁺ stabilization of domain G2 and is cleaved by furin in the Golgi, the first step of amyloidogenesis. |
+| `Kazmirski_2002_NatStructBiol_abstract.pdf` | Kazmirski SL, Isaacson RL, An C *et al.* Loss of a metal-binding site in gelsolin leads to familial amyloidosis–Finnish type. *Nat Struct Biol* 2002;**9**:112–6. | Original | **Critical** | Structure of domain G2 (residues 151–266) showing that D187 is part of a metal (Ca²⁺) binding site; structural basis of our variant. Full text not available through UPC/CSUC subscription; abstract stored. Structural claims cross-checked with PDB 1KCQ. |
+| `PDB_1KCQ.pdf` | Kazmirski SL *et al.* Human gelsolin domain 2 with a Cd²⁺ bound, PDB 1KCQ. https://www.rcsb.org/structure/1KCQ (25 October 2026, date last accessed). | Database | **Critical** | Experimental X-ray structure (1.65 Å) of domain G2 showing the metal-binding site that includes D187. |
+| `Page_2005_EMBOJ.pdf` | Page LJ, Suk JY, Huff ME *et al.* Metalloendoprotease cleavage triggers gelsolin amyloidogenesis. *EMBO J* 2005;**24**:4124–32. | Original | **Critical** | Shows that MT1-MMP cleaves the furin product outside the cell, releasing the 8 kDa and 5 kDa amyloidogenic fragments. |
+| `Maury_1990_FEBSLett_abstract.pdf` | Maury CP, Kere J, Tolvanen R *et al.* Finnish hereditary amyloidosis is caused by a single nucleotide substitution in the gelsolin gene. *FEBS Lett* 1990;**276**:75–7. | Original | **Critical** | First identification of the G→A substitution in *GSN* causing the disease. Full text not available through UPC/CSUC subscription; abstract stored. |
+| `Solomon_2012_CritRevBiochemMolBiol.pdf` | Solomon JP, Page LJ, Balch WE *et al.* Gelsolin amyloidosis: genetics, biochemistry, pathology and possible strategies for therapeutic intervention. *Crit Rev Biochem Mol Biol* 2012;**47**:282–96. | Review | *Context* | General overview of the disease: genetics, clinical picture, mechanism and therapies. |
+| `Nag_2013_Cytoskeleton_abstract.pdf` | Nag S, Larsson M, Robinson RC *et al.* Gelsolin: the tail of a molecular gymnast. *Cytoskeleton* 2013;**70**:360–84. | Review | *Context* | Normal function of gelsolin: six-domain architecture, Ca²⁺ activation, actin severing and capping. Full text not available through UPC/CSUC subscription; abstract stored. |
+| `UniProt_P06396.pdf` | The UniProt Consortium. Gelsolin (GELS_HUMAN), UniProtKB P06396. https://www.uniprot.org/uniprotkb/P06396 (25 October 2026, date last accessed). | Database | **Critical** | Reference protein sequence, signal peptide (1–27), domains and annotated variants. |
+| `OMIM_105120.pdf` | Online Mendelian Inheritance in Man. #105120 Amyloidosis, Finnish type. https://omim.org/entry/105120 (25 October 2026, date last accessed). | Database | *Context* | Inheritance pattern and clinical features of the disease. |
