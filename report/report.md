@@ -44,7 +44,7 @@ D187 is located in domain G2 (residues 151–266), where its side chain forms pa
 
 This loss of stability triggers an abnormal two-step proteolysis. First, in the trans-Golgi network, the destabilized G2 domain is cleaved between residues 172 and 173 by the protease furin, producing a secreted 68 kDa C-terminal fragment (C68) (Chen *et al.* 2001). Wild-type gelsolin escapes this cleavage because Ca²⁺ binding stabilizes G2 (Chen *et al.* 2001). Second, outside the cell, C68 is cleaved after residue 243 by the membrane metalloprotease MT1-MMP, releasing an 8 kDa fragment (residues 173–243) and a minor 5 kDa fragment (residues 173–225) that aggregate into amyloid fibrils (Chen *et al.* 2001, Page *et al.* 2005).
 
-The accumulation of these amyloid deposits in tissues explains the characteristic clinical triad of the disease: corneal lattice dystrophy, progressive cranial neuropathy (especially of the facial nerve), and skin laxity (cutis laxa) (Solomon *et al.* 2012).
+The resulting amyloidogenic fragments deposit systemically in tissues, which explains the clinical manifestations of the disease described above. Because a single mutant allele is sufficient to cause the disease with apparently complete penetrance, whereas gelsolin knockout mice show only a mild phenotype, gelsolin amyloidosis is considered a gain-of-toxic-function disease rather than the consequence of losing normal gelsolin activity (Solomon *et al.* 2012).
 
 ### Aims of this study
 *TO DO (All): general objective (formal infinitive statement) and specific objectives.*
