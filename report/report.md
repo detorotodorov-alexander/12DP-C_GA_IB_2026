@@ -76,7 +76,13 @@ The resulting amyloidogenic fragments deposit systemically in tissues, which exp
 *TO DO (Isaac, Arseniy): UniProt, NCBI (RefSeq, Gene), Ensembl, PDB, OMIM; accessions and selection criteria.*
 
 ### Sequence alignment
-*TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
+The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information. BLAST helps analyze and find regions of similarity between different biological sequences. 
+
+Search parameters:
+
+For all the human and homolog nucleotide sequences, the database used was the core nucleotide database (core nt). We specifically optimized for highly similar sequences (megablast).
+
+For all the human and homolog protein sequences, the database used was the the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. *TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
 
 ### Structural analysis
 *TO DO (Alexander): structures used, superposition, RMSD.*
