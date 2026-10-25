@@ -20,14 +20,14 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 2.1 | Get the gene and protein records | Isaac | 30/09 | 05/10 | 19/10 | 19/10 | Completed | Late. Human records and database IDs in `files/data/gsn_records_summary.md`; stayed on branch usr/dg-isc until 25/10 (merge delayed). |
 | 2.2 | Collect evidence on pathogenic variants | Isaac | 06/10 | 08/10 | 24/10 |  | In progress | Late (Incident 2.x). Focus reduced to the assigned variant D187N and the closely related D187Y. |
 | 2.3 | Confirm the assigned variant and the numbering | All | 09/10 | 09/10 | 19/10 | 24/10 | Completed | Variant c.640G>A, p.Asp214Asn = D187N. Conversion table in `files/data/residue_numbering.md` (mitigation of R2). |
-| 2.4 | Describe how normal gelsolin works | Isaac | 13/10 | 14/10 | 24/10 |  | In progress | Late. Written directly as part of the report Background. |
+| 2.4 | Describe how normal gelsolin works | Isaac | 13/10 | 14/10 | 24/10 | 25/10 | Completed | Late. Written as part of the report Background. |
 | 3.1 | Choose the reference PDB structure | Alexander | 13/10 | 13/10 |  |  | Real dates to be confirmed by owner | Structural analysis (human WT, mutant and horse) provided by the teaching team; record date received. |
 | 3.2 | Show the variants on the structure | Alexander | 14/10 | 14/10 |  |  | Real dates to be confirmed by owner | Figure of WT D187 vs mutant N187 taken from the teaching-team report. |
 | 3.3 | Look for structures of the variants | Biel | 09/10 | 09/10 |  |  | Real dates to be confirmed by owner |  |
 | 3.4 | Compare normal vs variant around residue 187 | Alexander, Biel | 15/10 | 19/10 |  |  | In progress | Interpretation after lab session with Nuria. |
 | 3.4b | Backup: build the variants in PyMOL | Alexander | 13/10 | 14/10 |  |  | Canceled | Contingency for R1 not needed: mutant structure provided by the teaching team. |
-| 4.1 | Disease background | Biel | 30/09 | 06/10 |  |  | Real dates to be confirmed by owner |  |
-| 4.2 | How the disease develops | Biel | 07/10 | 14/10 |  |  | Real dates to be confirmed by owner |  |
+| 4.1 | Disease background | Biel | 30/09 | 06/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): clinical picture and epidemiology in the report Background. |
+| 4.2 | How the disease develops | Biel | 07/10 | 14/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): disease mechanism in the report Background. |
 | 4.3 | Link the variant to the symptoms | Biel, Isaac | 20/10 | 21/10 | 24/10 |  | In progress | Late. |
 | 5.1 | Choose the species | Arseniy | 06/10 | 07/10 | 15/10 | 15/10 | Completed | Done by Biel: horse (mandatory), mouse and fly; rationale in `files/data/homologs_table.md`. |
 | 5.2 | Get the horse and second-species sequences | Arseniy | 08/10 | 09/10 | 15/10 | 15/10 | Completed | Done by Biel. Curated RefSeq entries; horse record lacks the N-terminal region (R5 partly materialised). |
@@ -35,7 +35,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 5.4 | Check how conserved D187 is | Arseniy, Alexander | 15/10 | 16/10 |  |  | In progress | D187 identical in horse (teaching-team structural report). Mouse and fly to check. |
 | 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 | 17/09 | 25/10 | Completed | First skeleton by Biel (17/09); restructured to BMC format with section owners by Isaac (25/10). |
 | 6.2 | Bibliography | Isaac | 09/10 | 14/10 | 24/10 | 25/10 | Completed | Late. 9 sources selected and annotated in `references/README.md` (reviews vs original papers vs databases). |
-| 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 |  | In progress | Late: report still empty on 24/10. |
+| 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 |  | In progress | Background, aims, references and data sources by Isaac; structural Results and Methods and Discussion limitations by Biel; alignment Methods by Arseniy. |
 | 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 25/10 |  | Pending | Re-planned to 25/10. |
 | 6.5 | Fix references and Declarations | Isaac | 26/10 | 26/10 | 26/10 |  | Pending | Re-planned: must be finished before 18:00 on 26/10. |
 | 6.6 | Final review (buffer day) | All | 27/10 | 27/10 | 26/10 |  | Pending | Re-planned from 27/10 to 26/10 (18:00–21:30): original date was after the deadline. |
