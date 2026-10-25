@@ -1,0 +1,131 @@
+Query: GA_CDS_WT Query ID: lcl|Query_1791169 Length: 2349
+
+
+>NM_146120.4 Mus musculus gelsolin (Gsn), transcript variant 1, mRNA
+Sequence ID: Query_1791171 Length: 2663
+Range 1: 106 to 2427
+
+Score:2859 bits(1548), Expect:0.0, 
+Identities:2069/2327(89%),  Gaps:10/2327(0%), Strand: Plus/Plus
+
+Query  28    ctgctttgcgcgctg-t-c-cctggcgctgtgcgcgctgtcgc-tgcccgtccgcgcggc  83
+Sbjct  106   .....C.........C.C.T...............A.......C.T...A.----..A..  161
+
+Query  84    cactgcgtcgcgggg-ggcgtcccaggcgggggcgccccaggggcgggtgcccgaggcgc  142
+Sbjct  162   ...CA.A..A.....CA.G.-....A.A.A..........AA.T......T.T.......  220
+
+Query  143   ggcccAACAGCATGGTGGTGGAACACCCCGAGTTCCTCAAGGCAGGGAAGGAGCCTGGCC  202
+Sbjct  221   ......G..CT...........G........A.....G......................  280
+
+Query  203   TGCAGATCTGGCGTGTGGAGAAGTTCGATCTGGTGCCCGTGCCCACCAACCTTTATGGAG  262
+Sbjct  281   .........................T..C........T......C.......C.......  340
+
+Query  263   ACTTCTTCACGGGCGACGCCTACGTCATCCTGAAGACAGTGCAGCTGAGGAACGGAAATC  322
+Sbjct  341   .............T..T.....T........A.....T..............T..G....  400
+
+Query  323   TGCAGTATGACCTCCACTACTGGCTGGGCAATGAGTGCAGCCAGGATGAGAGCGGGGCGG  382
+Sbjct  401   ...................T..............A.......................T.  460
+
+Query  383   CCGCCATCTTTACCGTGCAGCTGGATGACTACCTGAACGGCCGGGCCGTGCAGCACCGTG  442
+Sbjct  461   .T...........T.....A..........................T..A..........  520
+
+Query  443   AGGTCCAGGGCTTCGAGTCGGCCACCTTCCTAGGCTACTTCAAGTCTGGCCTGAAGTACA  502
+Sbjct  521   ....T........T......T........TCC.................A..T.......  580
+
+Query  503   AGAAAGGAGGTGTGGCATCAGGATTCAAGCACGTGGTACCCAACGAGGTGGTGGTGCAGA  562
+Sbjct  581   ...................T........A..............T...........C....  640
+
+Query  563   GACTCTTCCAGGTCAAAGGGCGGCGTGTGGTCCGTGCCACCGAGGTACCTGTGTCCTGGG  622
+Sbjct  641   .G.................A..C.....A........T..T...................  700
+
+Query  623   AGAGCTTCAACAATGGCGACTGCTTCATCCTGGACCTGGGCAACAACATCCACCAGTGGT  682
+Sbjct  701   .C..T.......................T...........A.....T...T.T.......  760
+
+Query  683   GTGGTTCCAACAGCAATCGGTATGAAAGACTGAAGGCCACACAGGTGTCCAAGGGCATCC  742
+Sbjct  761   ....C..TGG......CAAA.T......G...............................  820
+
+Query  743   GGGACAACGAGCGGAGTGGCCGGGCCCGAGTGCACGTGTCTGAGGAGGGCACTGAGCCCG  802
+Sbjct  821   ...........A..........T..T.A...A...........A.....AGGA.....A.  880
+
+Query  803   AGGCGATGCTCCAGGTGCTGGGCCCCAAGCCGGCTCTGCCTGCAGGTACCGAGGACACCG  862
+Sbjct  881   .A..C.....G....................A..........A...............A.  940
+
+Query  863   CCAAGGAGGATGCGGCCAACCGCAAGCTGGCCAAGCTCTACAAGGTCTCCAATGGTGCAG  922
+Sbjct  941   .......A.....A........A.G...........................C.......  1000
+
+Query  923   GGACCATGTCCGTCTCCCTCGTGGCTGATGAGAACCCCTTCGCCCAGGGGGCCCTGAAGT  982
+Sbjct  1001  .T.G......A........A.............................C.......GA.  1060
+
+Query  983   CAGAGGACTGCTTCATCCTGGACCACGGCAAAGATGGGAAAATCTTTGTCTGGAAAGGCA  1042
+Sbjct  1061  .T.......................T....G..................T..........  1120
+
+Query  1043  AGCAGGCAAACACGGAGGAGAGGAAGGCTGCCCTCAAAACAGCCTCTGACTTCATCACCA  1102
+Sbjct  1121  .......C....T.......C...................................T...  1180
+
+Query  1103  AGATGGACTACCCCAAGCAGACTCAGGTCTCGGTCCTTCCTGAGGGCGGTGAGACCCCAC  1162
+Sbjct  1181  .....C.G.......G......C.....T..A..T..C..A.................T.  1240
+
+Query  1163  TGTTCAAGCAGTTCTTCAAGAACTGGCGGGACCCAGACCAGACAGATGGCCTGGGCTTGT  1222
+Sbjct  1241  .C..T.........................................C....CC...C..G  1300
+
+Query  1223  CCTACCTTTCCAGCCATATCGCCAACGTGGAGCGGGTGCCCTTCGACGCCGCCACCCTGC  1282
+Sbjct  1301  G......C........C..T..............C..A..T.....T..T..T..G....  1360
+
+Query  1283  ACACCTCCACTGCCATGGCCGCCCAGCACGGCATGGATGACGATGGCACAGGCCAGAAAC  1342
+Sbjct  1361  ..........C...........T.................T.....A..T..........  1420
+
+Query  1343  AGATCTGGAGAATCGAAGGTTCCAACAAGGTGCCCGTGGACCCTGCCACATATGGACAGT  1402
+Sbjct  1421  .............T....................A.................C..G....  1480
+
+Query  1403  TCTATGGAGGCGACAGCTACATCATTCTGTACAACTACCGCCATGGTGGCCGCCAGGGGC  1462
+Sbjct  1481  ...........................................C..............A.  1540
+
+Query  1463  AGATAATCTATAACTGGCAGGGTGCCCAGTCTACCCAGGATGAGGTCGCTGCATCTGCCA  1522
+Sbjct  1541  ....C.....C...................................T.....T.......  1600
+
+Query  1523  TCCTGACTGCTCAGCTGGATGAGGAGCTGGGAGGTACCCCTGTCCAGAGCCGTGTGGTCC  1582
+Sbjct  1601  ..........C.......................A..T..............A.......  1660
+
+Query  1583  AAGGCAAGGAGCCCGCCCACCTCATGAGCCTGTTTGGTGGGAAGCCCATGATCATCTACA  1642
+Sbjct  1661  .......A.....T..A............T.......C......................  1720
+
+Query  1643  AGGGCGGCACCTCCCGCGAGGGCGGGCAGACAGCCCCTGCCAGCACCCGCCTCTTCCAGG  1702
+Sbjct  1721  ....T...........T..T..T...........T........T.T............A.  1780
+
+Query  1703  TCCGCGCCAACAGCGCTGGAGCCACCCGGGCTGTTGAGGTATTGCCTAAGGCTGGTGCAC  1762
+Sbjct  1781  .G..A....G....T...........A.......G.....GA........T.......T.  1840
+
+Query  1763  TGAACTCCAACGATGCCTTTGTTCTGAAAACCCCCTCAGCCGCCTACCTGTGGGTGGGTA  1822
+Sbjct  1841  ......................G..............C..T.................CG  1900
+
+Query  1823  CAGGAGCCAGCGAGGCAGAGAAGACGGGGGCCCAGGAGCTGCTCAGGGTGCTGCGGGCCC  1882
+Sbjct  1901  ..........T.....G........C..C...........T..G.A......T...T...  1960
+
+Query  1883  AACCTGTGCAGGTGGCAGAAGGCAGCGAGCCAGATGGCTTCTGGGAGGCCCTGGGCGGGA  1942
+Sbjct  1961  .G.A...........A.........T..........C............T..........  2020
+
+Query  1943  AGGCTGCCTACCGCACATCCCCACGGCTGAAGGACAAGAAGATGGATGCCCATCCTCCTC  2002
+Sbjct  2021  ..A...................CA....T...............................  2080
+
+Query  2003  GCCTCTTTGCCTGCTCCAACAAGATTGGACGTTTTGTGATCGAAGAGGTTCCTGGTGAGC  2062
+Sbjct  2081  .A...................G...C.....C.......................C....  2140
+
+Query  2063  TCATGCAGGAAGACCTGGCAACGGATGACGTCATGCTTCTGGACACCTGGGACCAGGTCT  2122
+Sbjct  2141  .T.................T..T..............C......................  2200
+
+Query  2123  TTGTCTGGGTTGGAAAGGATTCTCAAGAAGAAGAAAAGACAGAAGCCTTGACTTCTGCTA  2182
+Sbjct  2201  ................A..C..C..G.....G........G...................  2260
+
+Query  2183  AGCGGTACATCGAGACGGACCCAGCCAATCGGGATCGGCGGACGCCCATCACCGTGGTGA  2242
+Sbjct  2261  ................A..T.....A........CA.......C........A..C..T.  2320
+
+Query  2243  AGCAAGGCTTTGAGCCTCCCTCCTTTGTGGGCTGGTTCCTTGGCTGGGATGATGATTACT  2302
+Sbjct  2321  G...G..............T.....C..............C...........CA.C....  2380
+
+Query  2303  GGTCTGTGGACCCCTTGGACAGGGCCATGGCTGAGCTGGCTGCCTGA  2349
+Sbjct  2381  ....G.....T..T......C.....T....................  2427
+
+
+
+
+
