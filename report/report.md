@@ -77,7 +77,7 @@ Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/
 *TO DO (Isaac, Arseniy): UniProt, NCBI (RefSeq, Gene), Ensembl, PDB, OMIM; accessions and selection criteria.*
 
 ### Sequence alignment
-The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information. BLAST helps analyze and find regions of similarity between different biological sequences. 
+The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information (NCBI). BLAST helps analyze and find regions of similarity between different biological sequences. 
 
 Search parameters:
 
