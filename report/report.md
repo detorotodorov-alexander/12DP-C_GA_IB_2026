@@ -49,7 +49,15 @@ This loss of stability triggers an abnormal two-step proteolysis. First, in the 
 The resulting amyloidogenic fragments deposit systemically in tissues, which explains the clinical manifestations of the disease described above. Because a single mutant allele is sufficient to cause the disease with apparently complete penetrance, whereas gelsolin knockout mice show only a mild phenotype, gelsolin amyloidosis is considered a gain-of-toxic-function disease rather than the consequence of losing normal gelsolin activity (Solomon *et al.* 2012).
 
 ### Aims of this study
-*TO DO (All): general objective (formal infinitive statement) and specific objectives.*
+The general objective of this study is to characterize how the pathogenic *GSN* variant c.640G>A (D187N) alters the sequence, structure, and function of gelsolin, leading to gelsolin amyloidosis.
+
+The specific objectives are:
+
+1. To identify the human *GSN* gene, the gelsolin protein, and the assigned variant in public databases.
+2. To compare the wild-type and D187N gelsolin sequences at the DNA and protein levels.
+3. To compare the wild-type and D187N structures and relate the chemical change at position 187 to the Ca²⁺-binding site of domain G2.
+4. To assess the conservation of gelsolin, and of position 187 in particular, in *Equus caballus*, *Mus musculus*, and *Drosophila melanogaster*.
+5. To integrate these findings with the clinical picture of the disease.
 
 ## Results
 
