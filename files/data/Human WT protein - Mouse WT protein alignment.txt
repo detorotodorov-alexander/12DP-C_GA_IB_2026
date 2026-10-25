@@ -1,0 +1,54 @@
+Query: GA_protein_WT Query ID: lcl|Query_2209237 Length: 782
+
+
+>NP_666232.2 gelsolin isoform 1 precursor [Mus musculus]
+Sequence ID: Query_2209239 Length: 780
+Range 1: 22 to 780
+
+Score:1483 bits(3838), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:710/759(94%), Positives:736/759(96%), Gaps:0/759(0%)
+
+Query  24   PVRAATASRGASQAGAPQGRVPEARPNSMVVEHPEFLKAGKEPGLQIWRVEKFDLVPVPT  83
+Sbjct  22   .SH...T...RA.ER...S..S....ST...............................P  81
+
+Query  84   NLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRA  143
+Sbjct  82   ............................................................  141
+
+Query  144  VQHREVQGFESATFLGYFKSGLKYKKGGVASGFKHVVPNEVVVQRLFQVKGRRVVRATEV  203
+Sbjct  142  ...........S..S.............................................  201
+
+Query  204  PVSWESFNNGDCFILDLGNNIHQWCGSNSNRYERLKATQVSKGIRDNERSGRARVHVSEE  263
+Sbjct  202  ....D................Y.....G..KF.....................Q......  261
+
+Query  264  GTEPEAMLQVLGPKPALPAGTEDTAKEDAANRKLAKLYKVSNGAGTMSVSLVADENPFAQ  323
+Sbjct  262  .G................E.............R............S..............  321
+
+Query  324  GALKSEDCFILDHGKDGKIFVWKGKQANTEERKAALKTASDFITKMDYPKQTQVSVLPEG  383
+Sbjct  322  ...R..........R.............M..............S..Q..R..........  381
+
+Query  384  GETPLFKQFFKNWRDPDQTDGLGLSYLSSHIANVERVPFDAATLHTSTAMAAQHGMDDDG  443
+Sbjct  382  .....................P..G...................................  441
+
+Query  444  TGQKQIWRIEGSNKVPVDPATYGQFYGGDSYIILYNYRHGGRQGQIIYNWQGAQSTQDEV  503
+Sbjct  442  ............................................................  501
+
+Query  504  AASAILTAQLDEELGGTPVQSRVVQGKEPAHLMSLFGGKPMIIYKGGTSREGGQTAPAST  563
+Sbjct  502  ..................................................D........I  561
+
+Query  564  RLFQVRANSAGATRAVEVLPKAGALNSNDAFVLKTPSAAYLWVGTGASEAEKTGAQELLR  623
+Sbjct  562  .......S.S........M..S......................A..............K  621
+
+Query  624  VLRAQPVQVAEGSEPDGFWEALGGKAAYRTSPRLKDKKMDAHPPRLFACSNKIGRFVIEE  683
+Sbjct  622  ...S.H...E......A........T.........................R........  681
+
+Query  684  VPGELMQEDLATDDVMLLDTWDQVFVWVGKDSQEEEKTEALTSAKRYIETDPANRDRRTP  743
+Sbjct  682  ............................................................  741
+
+Query  744  ITVVKQGFEPPSFVGWFLGWDDDYWSVDPLDRAMAELAA  782
+Sbjct  742  ....R.................N..........L.....  780
+
+
+
+
+
