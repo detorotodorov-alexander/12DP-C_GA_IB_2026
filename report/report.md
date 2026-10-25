@@ -57,7 +57,16 @@ The resulting amyloidogenic fragments deposit systemically in tissues, which exp
 *TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
 
 ### Structural comparison of wild-type and D187N gelsolin
-*TO DO (Alexander, Biel): local and global RMSD, chemical change Asp→Asn, Ca²⁺-binding site in domain G2.*
+
+To assess whether the D187N substitution alters the overall fold of gelsolin, the wild-type and mutant structural models were superposed. The global root-mean-square deviation (RMSD) between them was 0.702 Å, a value below 1 Å that indicates that both structures are practically identical at the level of the whole protein.
+
+At the variant position itself, the local backbone displacement between wild-type D187 and mutant N187 was only 0.123 Å, so the substitution does not distort the protein backbone in domain G2 (Figure X). The difference is restricted to the chemistry of the side chain: the carboxylate group of aspartate, which is negatively charged at physiological pH, is replaced by the uncharged amide group of asparagine. Both side chains have a similar size and occupy the same position, but asparagine loses the negative charge and one of the two carboxylate oxygen atoms.
+
+These results indicate that the effect of D187N is chemical rather than structural. In wild-type gelsolin, the side chain of D187 is one of the ligands of a Ca²⁺-binding site in domain G2 (Kazmirski *et al.* 2002, Solomon *et al.* 2012). Removing its negative charge weakens the coordination of the positively charged Ca²⁺ ion, which is required to stabilize G2. This is consistent with the mechanism described in the Background, in which the loss of Ca²⁺ stabilization makes G2 susceptible to aberrant cleavage by furin (Chen *et al.* 2001).
+
+![Figure 1](../files/figures/Fig_WT_vs_D187N_structure.png)
+
+**Figure 1.** Superposition of wild-type (D187) and mutant (N187) gelsolin at position 187 in domain G2. The backbones overlap (local displacement 0.123 Å; global RMSD 0.702 Å), and only the side-chain chemistry changes: the negatively charged carboxylate of aspartate is replaced by the neutral amide of asparagine. Image from the structural conservation report provided by the course instructors.
 
 ### Comparison of human gelsolin with other species
 *TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
