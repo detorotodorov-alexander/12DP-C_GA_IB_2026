@@ -23,6 +23,8 @@ To characterize how the pathogenic *GSN* variant D187N changes the gelsolin prot
 3. **Patient impact (WP4):** connect what happens to the protein with amyloid formation and with the symptoms patients have.
 4. **Evolution (WP5):** align human, horse and a second species (mouse or fly, still to decide) gelsolin and measure how conserved D187 and the main domains are.
 
+Each specific objective is developed in a work package (WP); all work packages are described in section 3.
+
 ### Milestones
 
 | ID | Milestone | Date |
