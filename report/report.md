@@ -73,7 +73,9 @@ The resulting amyloidogenic fragments deposit systemically in tissues, which exp
 ## Methods
 
 ### Data sources
-*TO DO (Isaac, Arseniy): UniProt, NCBI (RefSeq, Gene), Ensembl, PDB, OMIM; accessions and selection criteria.*
+The human *GSN* wild-type and D187N coding sequences (CDS, 2349 nt) and protein sequences (782 aa) were provided by the teaching team in FASTA format and identified by BLASTn and BLASTp searches against NCBI databases (100% query cover, 100% identity, E-value 0.0). They were cross-checked against the reference records of the plasma gelsolin precursor in UniProtKB/Swiss-Prot (P06396, reviewed entry), NCBI RefSeq (mRNA NM_000177.5; protein NP_000168.1), NCBI Gene (Gene ID 2934), and Ensembl (ENSG00000148180) (`files/data/gsn_records_summary.md`). The plasma isoform was selected because the disease results from the aberrant processing of secreted gelsolin (Solomon *et al.* 2012).
+
+Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_001075422.1), *Mus musculus* (NM_146120.4 / NP_666232.2), and *Drosophila melanogaster* (NM_080126.4 / NP_524865.2) were retrieved from NCBI RefSeq through BLASTn and BLASTp searches restricted by organism. Curated RefSeq entries were prioritized and, when several isoforms were available, the secreted (plasma-like) isoform was chosen; members of the gelsolin superfamily that are paralogues rather than orthologues (e.g. villin, advillin, and scinderin) were excluded (`files/data/homologs_table.md`). The experimental structure of human gelsolin domain G2 was obtained from the Protein Data Bank (PDB 1KCQ), and clinical and inheritance information from OMIM (#105120). All database records were accessed in October 2026.
 
 ### Sequence alignment
 *TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
