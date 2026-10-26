@@ -1,6 +1,6 @@
-# Gantt (live-final) and retrospective analysis
+# Gantt (live) with retrospective analysis
 
-Last update: 26/10/2026, 21:00 — **final version**, checked against the commit history of `main`. Bars without colour in WP8 are pending (oral defence, dates to confirm).
+Last update: 26/10/2026, 21:00, checked against the commit history of `main`. Bars without colour in WP8 are pending (oral defence, dates to confirm).
 
 Final version of the Gantt chart, reflecting the **real** development of the project up to the delivery on **26/10/2026 at 22:00**. Real dates come from the commit history and from [`status/project_status.md`](../status/project_status.md). The frozen plan submitted on 9 October is in [`gantt_v1.md`](gantt_v1.md).
 
