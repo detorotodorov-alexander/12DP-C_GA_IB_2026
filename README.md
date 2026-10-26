@@ -6,23 +6,26 @@
 **Authors:** Alexander, Biel, Isaac, Arseniy.
 
 ## Description:
-In this report we will be exploring how the changes in gene and/or protein sequence and structure explain the molecular basis of Gelsolin Amyloidosis, what the differences are at gene, protein, structure, and function levels between a reference state and the disease-associated state, as well as the difference in all of those levels between humans and 2 other species and what biological implications they have in relation to the disease. We will be particularly looking into how the pathogenic *GSN* variant assigned to us causes Gelsolin Amyloidosis, starting from the healthy human gene we are given, what it changes in the protein structure, how that leads to the disease, and whether the affected region is conserved in horse and a second species we are still deciding between mouse and fly.
+This repository contains our bioinformatic study of Gelsolin Amyloidosis (familial amyloidosis of Finnish type). We explain how the pathogenic *GSN* variant c.640G>A (D187N) changes the gelsolin protein, starting from the healthy human gene, and how this leads to the disease. We also compare the wild type and mutant sequences and structures, and we assess the conservation of the affected position in horse (*Equus caballus*) and mouse (*Mus musculus*). 
 
 ## Where to start
-- `index.html` – a simple viewer with the whole plan (overview, Gantt chart, tasks, risks and the list of files). Download it and open it in a browser.
-- `report/project_plan.md` – Gantt chart and risk analysis (version 1, submitted 9 October 2026). GitHub shows the Gantt chart directly.
-- `report/report.md` – the report (BMC Bioinformatics format), in progress.
+- `report/report.md` – the final report written in a BMC Bioinformatics format, which Github renders directly.
+- `gantt/gantt_v1.md` – version 1 of the gantt chart, submitted 9 October 2026.
+- `gantt/gantt_live.md` – final gantt chart with real dates and retrospective analysis.
+- `references/README.md` - annotated list of all the sources used in the report.
+- `report/project_plan.md` - all of the objectives, work packages, and risk analysis related to the project.
+- `status/project_status.md` - live project status document with tasks, dates, and risks.
 
 ## Repository Structure
-- `report.md` — main report document
-- `gantt` - live gantt, updated during the project
-- `status` -  project status document
-- `files/data` - sequences, alignments and other data
-- `files/figures` — images and plots referenced in the report
-- `files/scripts` - scripts
+- `report.md` — final report and project plan document.
+- `gantt` - live gantt, updated during the project.
+- `status` -  project status document.
+- `files/data` - sequences, alignments and other data.
+- `files/figures` — images and plots referenced in the report.
+- `files/scripts` - scripts.
 - `files/instructions` - all the course instructions (rubric, BMC template, etc.)
-- `references` - a list of all the references used in the report
-- `README.md` — this file
+- `references` - PDFs of all sources used in the report and an annotated list.
+- `README.md` — this file.
 
 ## Commit messages
 Short and in English, starting with a verb ex. `Add D187 variant table`, `Fix residue numbering in Results`.
