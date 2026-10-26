@@ -6,7 +6,7 @@
 **Authors:** Alexander, Biel, Isaac, Arseniy.
 
 ## Description:
-This repository contains our bioinformatic study of Gelsolin Amyloidosis (familial amyloidosis of Finnish type). We explain how the pathogenic *GSN* variant c.640G>A (D187N) changes the gelsolin protein, starting from the healthy human gene, and how this leads to the disease. We compare the wild type and mutant sequences and structures, and we assess the conservation of the affected position in horse (*Equus caballus*) and mouse (*Mus musculus*). 
+This repository contains our bioinformatic study of Gelsolin Amyloidosis (familial amyloidosis of Finnish type). We explain how the pathogenic *GSN* variant c.640G>A (D187N) changes the gelsolin protein, starting from the healthy human gene, and how this leads to the disease. We also compare the wild type and mutant sequences and structures, and we assess the conservation of the affected position in horse (*Equus caballus*) and mouse (*Mus musculus*). 
 
 ## Where to start
 - `report/report.md` – the final report written in a BMC Bioinformatics format, which Github renders directly.
