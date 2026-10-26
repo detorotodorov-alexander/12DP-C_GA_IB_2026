@@ -132,7 +132,7 @@ AGel: gelsolin amyloidosis; aa: amino acids; BLAST: Basic Local Alignment Search
 
 **Availability of data and materials:** All data, scripts, figures and sources are available in the project repository: https://github.com/detorotodorov-alexander/12DP-C_GA_IB_2026
 
-**Authors' contributions:** *TO DO (Isaac, at the end).*
+**Authors' contributions:** All authors contributed to the definition of the project scope, objectives, and roles, discussed the results, and read and approved the final manuscript. **Alexander** created and organized the repository, designed the Gantt charts (initial and final versions) and the retrospective analysis, co-developed the risk analysis, performed the human–mouse structural superposition with AlphaFold models in ChimeraX (Results, Methods, and Figure 3), and reviewed and edited the Abstract. **Arseniy** wrote the repository README and conventions, performed the pairwise CDS and protein alignments (WT vs D187N, human vs horse, and human vs mouse), and wrote the sequence and species comparison Results and the sequence alignment Methods. **Biel** wrote the project milestones and the risk analysis matrix, selected the homologous species and sequences, wrote the structural comparison Results (WT vs D187N and human vs horse; Figures 1 and 2), the Limitations, the structural analysis Methods (with Alexander), and the Abstract. **Isaac** retrieved and documented the human *GSN* records and the literature sources, maintained the project status document, restructured the report into BMC format, and wrote the Background, the Aims, and the data sources Methods. The Discussion and Conclusions were first drafted by Isaac and then reviewed and revised by all authors.
 
 ## References
 
