@@ -105,13 +105,13 @@ The human *GSN* wild-type and D187N coding sequences (CDS, 2349 nt) and protein 
 Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_001075422.1) and *Mus musculus* (NM_146120.4 / NP_666232.2) were retrieved from NCBI RefSeq through BLASTn and BLASTp searches restricted by organism. Curated RefSeq entries were prioritized and, when several isoforms were available, the secreted (plasma-like) isoform was chosen. For the horse, the only curated RefSeq record (NP_001075422.1, 731 aa) lacks the signal peptide and the plasma-specific N-terminal extension and therefore corresponds to the cytoplasmic isoform; because the rest of the sequence, including domain G2 and the position equivalent to D187, is shared by both isoforms, this record was used for the comparison; members of the gelsolin superfamily that are paralogues rather than orthologues (e.g. villin, advillin, and scinderin) were excluded (`files/data/homologs_table.md`). The experimental structure of human gelsolin domain G2 was obtained from the Protein Data Bank (PDB 1KCQ), and clinical and inheritance information from OMIM (#105120). All database records were accessed in October 2026.
 
 ### Sequence alignment
-The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information (NCBI). BLAST helps analyze and find regions of similarity between different biological sequences. 
+The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information (NCBI). BLAST helps analyse and find regions of similarity between different biological sequences. 
 
 Search parameters:
 
 For all the human and homolog nucleotide sequences, the database used was the core nucleotide database (core nt). We specifically optimized for highly similar sequences (megablast).
 
-For all the human and homolog protein sequences, the database used was the the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. 
+For all the human and homolog protein sequences, the database used was the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. 
 
 ### Structural analysis
 *TO DO (Alexander): structures used, superposition, RMSD. (I(Biel) have add a little part, Alexander has to complete)*
