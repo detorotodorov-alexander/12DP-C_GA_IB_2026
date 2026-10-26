@@ -30,7 +30,7 @@ gantt
     2.4 Normal function (Isaac)                      :done, t24, 2026-10-24, 2d
 
     section WP3 Structure
-    3.1-3.3 Replaced by teaching-team structural report :done, t31, 2026-10-25, 1d
+    3.1-3.3 Canceled, replaced by teaching-team report :t31, 2026-10-13, 0d
     3.4 Compare WT vs D187N (Biel)                   :crit, done, t34, 2026-10-25, 1d
     3.4b Backup PyMOL models (canceled)              :t34b, 2026-10-13, 0d
     3.5 AlphaFold superposition mouse and horse (Alexander) · in progress :active, t35, 2026-10-26, 1d
