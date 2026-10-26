@@ -78,6 +78,11 @@ These results indicate that the effect of D187N is chemical rather than structur
 
 ### Comparison of human gelsolin with other species
 To study the disease from an evolutionary perspective, we compared the human WT CDS and protein sequences with those of two homologs: the horse (*Equus caballus*), required by the course instructors, and the mouse (*Mus musculus*), a mammalian model organism with a curated gelsolin precursor equivalent to human plasma gelsolin (see `files/data/homologs_table.md` for the selection criteria). In the alignment between the human WT nucleotide sequence and the horse sequence, the percentage identity is 92% (2018/2205) (see `files/data/Human WT - Horse WT CDS alignment.txt`), while for the mouse it is 89% (2069/2327) (see `files/data/Human WT - Mouse WT CDS alignment.txt`). Such high percentage identities over high query coverages suggest a common evolutionary origin and a generally high conservation of function. The human–horse alignment contains no gaps, and the few gaps in the human–mouse alignment are restricted to the region encoding the N-terminal signal peptide; therefore, the reading frame is preserved. At the protein level (see `files/data/homologs_table.md` and the protein alignment files in the same folder), the percentage identities for the horse and the mouse (94.66% and 93.54%, respectively) are higher than at the nucleotide level, most likely because many nucleotide substitutions are synonymous. E-values of 0.0 indicate that these similarities are not due to chance. In both species, the position equivalent to human D187 (D214 in the precursor) is conserved (D163 in horse and D212 in mouse), and domain G2 is largely conserved.
+At the structural level, the human and horse gelsolin models superposed with a global RMSD of 1.05 Å (Figure 2). Over the structurally aligned positions, 94.7% of the residues were identical and 96.6% belonged to the same physicochemical class. The horse model lacks the N-terminal region corresponding to the first 53 residues of the human precursor, including the signal peptide, consistent with its shorter curated sequence. At the position equivalent to human D187 the residue is identical, and the local backbone displacement between both species was only 0.302 Å, indicating that the Ca²⁺-binding region of domain G2 adopts the same conformation in human and horse.
+
+![Figure 2](../files/figures/Fig_human_vs_horse_superposition.png)
+
+**Figure 2.** Superposition of human (blue) and horse (green) gelsolin structural models (global RMSD 1.05 Å). Image from the structural conservation report provided by the course instructors.
 
 ## Discussion
 
@@ -92,6 +97,7 @@ Finally, these molecular findings connect directly with the clinical picture of 
 ### Limitations
 
 The structural comparison has several limitations. First, the structures analysed appear to be predicted models (they include the signal peptide, which is absent from experimental structures) and contain no Ca²⁺ ions, so the loss of Ca²⁺ binding caused by D187N could not be observed directly and is supported instead by experimental studies (Chen *et al.* 2001, Kazmirski *et al.* 2002). Second, a low RMSD does not imply the absence of a functional effect: a static structure does not capture changes in domain stability or dynamics, which are precisely what D187N alters by allowing G2 to sample partially unfolded conformations (Solomon *et al.* 2012).
+Third, conservation was assessed in only two mammalian species that are closely related to humans; the conservation of D187 therefore suggests, but does not prove, a strong functional constraint, and including more distant species would strengthen this conclusion.
 
 ## Conclusions
 
