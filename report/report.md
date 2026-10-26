@@ -62,7 +62,7 @@ The specific objectives are:
 ## Results
 
 ### Sequence comparison of wild-type and D187N gelsolin
-Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects certain chemical reactions within the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). 
+Looking at the sequence alignment of the human wild-type (WT) coding DNA sequence (CDS) vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects certain chemical reactions within the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). 
 
 ### Structural comparison of wild-type and D187N gelsolin
 
@@ -113,7 +113,7 @@ Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models,
 
 ## Abbreviations
 
-*TO DO (All): add every abbreviation used, e.g. AGel: gelsolin amyloidosis; CDS: coding DNA sequence; MT1-MMP: membrane-type 1 matrix metalloproteinase; RMSD: root-mean-square deviation; WT: wild type.*
+AGel: gelsolin amyloidosis; aa: amino acids; BLAST: Basic Local Alignment Search Tool; CDS: coding DNA sequence; DNA: deoxyribonucleic acid; FAF: familial amyloidosis of Finnish type; MT1-MMP: membrane-type 1 matrix metalloproteinase; NCBI: National Center for Biotechnology Information; nt: nucleotides; OMIM: Online Mendelian Inheritance in Man; PDB: Protein Data Bank; RMSD: root-mean-square deviation; WT: wild type.
 
 ## Declarations
 

@@ -4,7 +4,7 @@ Live document, updated at least twice a week (task 7.1, Isaac) and reviewed in t
 
 Status: Pending · In progress · Completed · Incident · Backlog · Canceled. When something changes, write why in Notes.
 
-**Updated up to 25/10/2026**
+**Updated up to 26/10/2026**
 
 > **Schedule incident (detected 24/10):** Gantt v1 placed the end of the project on 28/10, but the official deadline is **Monday 26/10 at 22:00** (Disease Project Overview). Tasks 6.4–6.6 and 7.4 have been re-planned inside 24/10–26/10, and the WP8 (oral defence) dates remain to be confirmed. The re-planning is reflected in the live Gantt and will be analysed in task 7.4.
 
@@ -24,19 +24,19 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 3.1 | Choose the reference PDB structure | Alexander | 13/10 | 13/10 |  |  | Real dates to be confirmed by owner | Structural analysis (human WT, mutant and horse) provided by the teaching team; record date received. |
 | 3.2 | Show the variants on the structure | Alexander | 14/10 | 14/10 |  |  | Real dates to be confirmed by owner | Figure of WT D187 vs mutant N187 taken from the teaching-team report. |
 | 3.3 | Look for structures of the variants | Biel | 09/10 | 09/10 |  |  | Real dates to be confirmed by owner |  |
-| 3.4 | Compare normal vs variant around residue 187 | Alexander, Biel | 15/10 | 19/10 |  |  | In progress | Interpretation after lab session with Nuria. |
+| 3.4 | Compare normal vs variant around residue 187 | Alexander, Biel | 15/10 | 19/10 | 25/10 | 25/10 | Completed | Written by Biel in Results (structural comparison) with Figure 1. Effect of D187N is chemical rather than structural. |
 | 3.4b | Backup: build the variants in PyMOL | Alexander | 13/10 | 14/10 |  |  | Canceled | Contingency for R1 not needed: mutant structure provided by the teaching team. |
 | 4.1 | Disease background | Biel | 30/09 | 06/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): clinical picture and epidemiology in the report Background. |
 | 4.2 | How the disease develops | Biel | 07/10 | 14/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): disease mechanism in the report Background. |
 | 4.3 | Link the variant to the symptoms | Biel, Isaac | 20/10 | 21/10 | 24/10 |  | In progress | Late. |
 | 5.1 | Choose the species | Arseniy | 06/10 | 07/10 | 15/10 | 15/10 | Completed | Done by Biel: horse (mandatory), mouse and fly; rationale in `files/data/homologs_table.md`. |
 | 5.2 | Get the horse and second-species sequences | Arseniy | 08/10 | 09/10 | 15/10 | 15/10 | Completed | Done by Biel. Curated RefSeq entries; horse record lacks the N-terminal region (R5 partly materialised). |
-| 5.3 | Align the sequences | Arseniy | 13/10 | 14/10 | 19/10 | 19/10 | Completed | Pairwise alignments (WT vs mutant, human vs horse, human vs mouse) in `files/data/`. |
-| 5.4 | Check how conserved D187 is | Arseniy, Alexander | 15/10 | 16/10 |  |  | In progress | D187 identical in horse (teaching-team structural report). Mouse and fly to check. |
+| 5.3 | Align the sequences | Arseniy | 13/10 | 14/10 | 19/10 | 25/10 | Completed | Pairwise CDS and protein alignments (WT vs mutant, human vs horse, human vs mouse) in `files/data/`. |
+| 5.4 | Check how conserved D187 is | Arseniy, Alexander | 15/10 | 16/10 | 25/10 | 26/10 | Completed | D187 conserved in horse (D163) and mouse (D212). Written by Arseniy in Results; corrections by Isaac (26/10). |
 | 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 | 17/09 | 25/10 | Completed | First skeleton by Biel (17/09); restructured to BMC format with section owners by Isaac (25/10). |
 | 6.2 | Bibliography | Isaac | 09/10 | 14/10 | 24/10 | 25/10 | Completed | Late. 9 sources selected and annotated in `references/README.md` (reviews vs original papers vs databases). |
-| 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 |  | In progress | Background, aims, references and data sources by Isaac; structural Results and Methods and Discussion limitations by Biel; alignment Methods by Arseniy. |
-| 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 25/10 |  | Pending | Re-planned to 25/10. |
+| 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 | 26/10 | Completed | All first drafts merged into main on 26/10 (PRs #17 Biel, #22 Arseniy, #24 Isaac). Missing: human–horse structural results and structural Methods. |
+| 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 26/10 |  | In progress | Re-planned to 26/10. Discussion and Conclusions pending; Abstract by Isaac at the end. |
 | 6.5 | Fix references and Declarations | Isaac | 26/10 | 26/10 | 26/10 |  | Pending | Re-planned: must be finished before 18:00 on 26/10. |
 | 6.6 | Final review (buffer day) | All | 27/10 | 27/10 | 26/10 |  | Pending | Re-planned from 27/10 to 26/10 (18:00–21:30): original date was after the deadline. |
 | 7.1 | Keep the status document updated | Isaac | 01/10 | 28/10 | 09/10 |  | Incident | Not updated between 09/10 and 24/10. Updated again from 24/10. |
