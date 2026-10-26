@@ -12,8 +12,8 @@ This repository contains our bioinformatic study of Gelsolin Amyloidosis (famili
 - `report/report.md` – the final report written in a BMC Bioinformatics format, which Github renders directly.
 - `gantt/gantt_v1.md` – version 1 of the gantt chart, submitted 9 October 2026.
 - `gantt/gantt_live.md` – final gantt chart with real dates and retrospective analysis.
-- `reference/README.md` - annotated list of all the sources used in the report.
-- `report/project_plan.md` - all of the objectives, work passages, and risk analysis related to the project.
+- `references/README.md` - annotated list of all the sources used in the report.
+- `report/project_plan.md` - all of the objectives, work packages, and risk analysis related to the project.
   
 
 ## Repository Structure
