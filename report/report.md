@@ -55,13 +55,13 @@ The resulting amyloidogenic fragments deposit systemically in tissues, which exp
 
 ### Sequence comparison of wild-type and D187N gelsolin
 Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`
-), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects the formation of the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured by subtracting 27 from the position of the precursor. (*TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
+), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects the formation of the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). (*TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
 
 ### Structural comparison of wild-type and D187N gelsolin
 *TO DO (Alexander, Biel): local and global RMSD, chemical change Asp→Asn, Ca²⁺-binding site in domain G2.*
 
 ### Comparison of human gelsolin with other species
-*TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
+To look at the nature of the disease from an evolutionary perspective, we have chosen 2 homologs to compare to the human WT CDS and protein sequences, which are the horse (equus caballus) and the mouse (mus musculus). We have chosen these 2 homologs in particular as they share a great amount of their genes (around 90%) in common with humans and have high sequence conservation in regions related to the coding of proteins (Max Plank Society, 2026). *TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
 
 ## Discussion
 
@@ -115,3 +115,5 @@ Page LJ, Suk JY, Huff ME *et al.* Metalloendoprotease cleavage triggers gelsolin
 Solomon JP, Page LJ, Balch WE *et al.* Gelsolin amyloidosis: genetics, biochemistry, pathology and possible strategies for therapeutic intervention. *Crit Rev Biochem Mol Biol* 2012;**47**:282–96.
 
 The UniProt Consortium. Gelsolin (GELS_HUMAN), UniProtKB P06396. https://www.uniprot.org/uniprotkb/P06396 (25 October 2026, date last accessed).
+
+“Why Do Researchers Investigate Mice?” Max Planck Society, https://www.mpg.de/10973923/why-do-scientists-investigate-mice. (26 October 2026, date last accessed).
