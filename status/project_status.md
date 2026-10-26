@@ -4,7 +4,7 @@ Live document, updated at least twice a week (task 7.1, Isaac) and reviewed in t
 
 Status: Pending · In progress · Completed · Incident · Backlog · Canceled. When something changes, write why in Notes.
 
-**Updated up to 26/10/2026**
+**Updated up to 26/10/2026 (final, 21:30)**
 
 > **Schedule incident (detected 24/10):** Gantt v1 placed the end of the project on 28/10, but the official deadline is **Monday 26/10 at 22:00** (Disease Project Overview). Tasks 6.4–6.6 and 7.4 have been re-planned inside 24/10–26/10, and the WP8 (oral defence) dates remain to be confirmed. The re-planning is reflected in the live Gantt and will be analysed in task 7.4.
 
@@ -25,7 +25,7 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 3.2 | Show the variants on the structure | Alexander | 14/10 | 14/10 |  |  | Canceled | Replaced by the teaching-team structural report (Figure 1 in the report). |
 | 3.3 | Look for structures of the variants | Biel | 09/10 | 09/10 |  |  | Canceled | Not needed: WT and D187N structures provided by the teaching team. |
 | 3.4 | Compare normal vs variant around residue 187 | Alexander, Biel | 15/10 | 19/10 | 25/10 | 25/10 | Completed | Written by Biel in Results (structural comparison) with Figure 1. Effect of D187N is chemical rather than structural. |
-| 3.4b | Backup: build the variants in PyMOL | Alexander | 13/10 | 14/10 |  |  | Canceled | Contingency for R1 not needed: mutant structure provided by the teaching team. |
+| 3.5 | Structural superposition human–mouse (AlphaFold, ChimeraX) | Alexander | — | — | 26/10 | 26/10 | Completed | New task (not in v1), added on 26/10 to extend the structural comparison to the second species. |
 | 4.1 | Disease background | Biel | 30/09 | 06/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): clinical picture and epidemiology in the report Background. |
 | 4.2 | How the disease develops | Biel | 07/10 | 14/10 | 25/10 | 25/10 | Completed | Reassigned to Isaac (agreed with Biel): disease mechanism in the report Background. |
 | 4.3 | Link the variant to the symptoms | Biel, Isaac | 20/10 | 21/10 | 25/10 | 25/10 | Completed | Late. Written by Isaac in the Background (variant → Ca²⁺ loss → cleavage → amyloid → symptoms). |
@@ -36,13 +36,13 @@ Status: Pending · In progress · Completed · Incident · Backlog · Canceled. 
 | 6.1 | Report skeleton (BMC format) | Biel | 05/10 | 05/10 | 17/09 | 25/10 | Completed | First skeleton by Biel (17/09); restructured to BMC format with section owners by Isaac (25/10). |
 | 6.2 | Bibliography | Isaac | 09/10 | 14/10 | 24/10 | 25/10 | Completed | Late. 9 sources selected and annotated in `references/README.md` (reviews vs original papers vs databases). |
 | 6.3 | First drafts of Background, Methods and Results | Each WP lead | 16/10 | 20/10 | 24/10 | 26/10 | Completed | All first drafts merged into main on 26/10 (PRs #17 Biel, #22 Arseniy, #24 Isaac). Missing: human–horse structural results and structural Methods. |
-| 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 26/10 |  | In progress | Re-planned to 26/10. Discussion and Conclusions pending; Abstract by Isaac at the end. |
-| 6.5 | Fix references and Declarations | Isaac | 26/10 | 26/10 | 26/10 |  | Pending | Re-planned: must be finished before 18:00 on 26/10. |
-| 6.6 | Final review (buffer day) | All | 27/10 | 27/10 | 26/10 |  | Pending | Re-planned from 27/10 to 26/10 (18:00–21:30): original date was after the deadline. |
-| 7.1 | Keep the status document updated | Isaac | 01/10 | 28/10 | 09/10 |  | Incident | Not updated between 09/10 and 24/10. Updated again from 24/10. |
-| 7.2 | Keep the live Gantt updated | Alexander | 13/10 | 28/10 |  |  | Incident | Live Gantt not updated since 09/10. |
+| 6.4 | Final Results, Discussion, Abstract and Conclusions | All | 22/10 | 23/10 | 26/10 | 26/10 | Completed | Re-planned to 26/10. Abstract by Biel; Discussion and Conclusions first drafted by Isaac and revised by all. |
+| 6.5 | Fix references and Declarations | Isaac | 26/10 | 26/10 | 25/10 | 26/10 | Completed | References in Oxford style; Authors' contributions added. |
+| 6.6 | Final review (buffer day) | All | 27/10 | 27/10 | 26/10 | 26/10 | Completed | Re-planned from 27/10 to 26/10: consistency of values, numbering, figures and citations checked. |
+| 7.1 | Keep the status document updated | Isaac | 01/10 | 28/10 | 09/10 | 26/10 | Completed | Incident: not updated between 09/10 and 24/10; maintained daily from 24/10 to delivery. |
+| 7.2 | Keep the live Gantt updated | Alexander | 13/10 | 28/10 | 26/10 | 26/10 | Completed | Incident: not updated between 09/10 and 26/10; final version with real dates delivered on 26/10. |
 | 7.3 | Save every source in references/ | All | 28/09 | 28/10 | 24/10 | 25/10 | Completed | 9 sources stored and annotated by Isaac. Full text of 3 papers not available via UPC/CSUC: abstracts stored. |
-| 7.4 | Final Gantt and comparison with v1 | Alexander | 28/10 | 28/10 | 26/10 |  | Pending | Re-planned from 28/10 to 26/10. |
+| 7.4 | Final Gantt and comparison with v1 | Alexander | 28/10 | 28/10 | 26/10 | 26/10 | Completed | Final Gantt and retrospective analysis in `gantt/gantt_live.md`. |
 | 8.1 | Slides | All | 29/10 | 30/10 |  |  | Backlog | Dates to confirm when the defence date is known. |
 | 8.2 | First rehearsal | All | 03/11 | 03/11 |  |  | Backlog |  |
 | 8.3 | Second rehearsal | All | 04/11 | 04/11 |  |  | Backlog |  |
@@ -56,12 +56,12 @@ Scores and contingency plans are in [section 4 of the plan](../report/project_pl
 | R1 | 6 | Closed | Mutant structure provided by the teaching team; 3.4b canceled. |
 | R2 | 6 | Materialised, mitigated | The teaching-team report itself mixes numbering (position 214 vs D187). Conversion table added; all numbers to be checked in 6.6. |
 | R3 | 6 | Closed | Structural interpretation completed by Biel (25/10). |
-| R6 | 4 | Under control | Report ≈2500 words and 2 figures on 26/10 (limits: 5000 words, 5 figures/tables). |
+| R4 | 6 | Closed | No critical-path task was blocked by absences; tasks were reassigned when needed (WP4 to Isaac, species selection to Biel). |
 | R5 | 4 | Materialised, mitigated | Horse record lacks residues 1–53 (signal peptide region); does not affect domain G2 or D187. |
-| R6 | 4 | Open | To check in 6.6 (≤ 5000 words, ≤ 5 figures/tables). |
-| R7 | 3 | Open | |
+| R6 | 4 | Closed | Final report ≈4000 words and 3 figures (limits: 5000 words, 5 figures/tables). |
+| R7 | 3 | Materialised, mitigated | Merge conflicts in the status document and work left on personal branches; resolved through pull requests with merge commits. |
 | R8 (new) | 6 | Materialised | Deadline mismatch in Gantt v1 (28/10 vs 26/10). Mitigation: re-planning of 6.4–7.4 into 24–26/10. |
-| R9 (new) | 6 | Open | Unbalanced contributions (teacher feedback 09/10). Mitigation: each member commits their own report section from their own account. |
+| R9 (new) | 6 | Mitigated | Contributions balanced in the final phase (commits from all four members in the report). |
 
 ## Feedback from the teaching team (Gantt v1)
 
