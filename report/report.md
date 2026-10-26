@@ -54,7 +54,7 @@ The resulting amyloidogenic fragments deposit systemically in tissues, which exp
 ## Results
 
 ### Sequence comparison of wild-type and D187N gelsolin
-Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects certain chemical reactions within the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). (*TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
+Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects certain chemical reactions within the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). 
 
 ### Structural comparison of wild-type and D187N gelsolin
 *TO DO (Alexander, Biel): local and global RMSD, chemical change Asp→Asn, Ca²⁺-binding site in domain G2.*
@@ -82,7 +82,7 @@ Search parameters:
 
 For all the human and homolog nucleotide sequences, the database used was the core nucleotide database (core nt). We specifically optimized for highly similar sequences (megablast).
 
-For all the human and homolog protein sequences, the database used was the the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. *TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
+For all the human and homolog protein sequences, the database used was the the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. 
 
 ### Structural analysis
 *TO DO (Alexander): structures used, superposition, RMSD.*
