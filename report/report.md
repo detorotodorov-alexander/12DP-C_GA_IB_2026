@@ -113,7 +113,7 @@ Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models,
 
 ## Abbreviations
 
-*TO DO (All): add every abbreviation used, e.g. AGel: gelsolin amyloidosis; CDS: coding DNA sequence; MT1-MMP: membrane-type 1 matrix metalloproteinase; RMSD: root-mean-square deviation; WT: wild type.*
+AGel: gelsolin amyloidosis; aa: amino acids; BLAST: Basic Local Alignment Search Tool; CDS: coding DNA sequence; DNA: deoxyribonucleic acid; FAF: familial amyloidosis of Finnish type; MT1-MMP: membrane-type 1 matrix metalloproteinase; NCBI: National Center for Biotechnology Information; nt: nucleotides; OMIM: Online Mendelian Inheritance in Man; PDB: Protein Data Bank; RMSD: root-mean-square deviation; WT: wild type.
 
 ## Declarations
 
