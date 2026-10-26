@@ -120,8 +120,7 @@ For all the human and homolog nucleotide sequences, the database used was the co
 For all the human and homolog protein sequences, the database used was the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. 
 
 ### Structural analysis
-*TO DO (Alexander): structures used, superposition, RMSD. (I(Biel) have add a little part, Alexander has to complete)*
-Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models, their superposition, global RMSD and per-residue backbone displacement were provided by the course instructors as a structural conservation report. Residue positions are given in mature-protein numbering (D187 = D214 in the precursor).
+For the human–mouse comparison, which was not included in the teaching-team report, predicted structures of human (UniProt P06396) and mouse (UniProt P13020) gelsolin were retrieved from the AlphaFold Protein Structure Database (models AF-P06396-F1 and AF-P13020-F1, version 6). Both models were superposed in UCSF ChimeraX 1.12 with the MatchMaker command (Needleman–Wunsch alignment, BLOSUM-62 matrix, iterative pruning of Cα pairs more than 2.0 Å apart). The superposition was performed on the full-length proteins and on domain G2 alone (human precursor residues 178–293, mature 151–266; mouse residues 176–291). RMSD values are reported both for the pruned pairs and for all aligned Cα pairs. The residue equivalent to human D214 (D187 in mature numbering) was identified in the mouse model as D212.
 
 ## Abbreviations
 
