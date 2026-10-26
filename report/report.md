@@ -62,17 +62,28 @@ The specific objectives are:
 ## Results
 
 ### Sequence comparison of wild-type and D187N gelsolin
-*TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
+Looking at the sequence alignment of human WT CDS vs the mutant CDS (see `files/data/Human WT - Human mutant CDS alignment.txt`), it can be seen that the only difference between the 2 sequences is a single missense nucleotide substitution from guanine to adenine (c.640G>A). This substitution affects certain chemical reactions within the protein by changing the codon GAC, which codes for the amino acid aspartate, into AAC, which codes for asparagine (p.Asp214Asn) (see `files/data/Human WT protein - Human mutant protein alignment.txt`). This mutation is labelled as D187N using the numbering of the mature protein, which can be figured out by subtracting 27 from the position of the precursor (214). 
 
 ### Structural comparison of wild-type and D187N gelsolin
-*TO DO (Alexander, Biel): local and global RMSD, chemical change Asp→Asn, Ca²⁺-binding site in domain G2.*
+
+To assess whether the D187N substitution alters the overall fold of gelsolin, the wild-type and mutant structural models were superposed. The global root-mean-square deviation (RMSD) between them was 0.702 Å, a value below 1 Å that indicates that both structures are practically identical at the level of the whole protein.
+
+At the variant position itself, the local backbone displacement between wild-type D187 and mutant N187 was only 0.123 Å, so the substitution does not distort the protein backbone in domain G2 (Figure X). The difference is restricted to the chemistry of the side chain: the carboxylate group of aspartate, which is negatively charged at physiological pH, is replaced by the uncharged amide group of asparagine. Both side chains have a similar size and occupy the same position, but asparagine loses the negative charge and one of the two carboxylate oxygen atoms.
+
+These results indicate that the effect of D187N is chemical rather than structural. In wild-type gelsolin, the side chain of D187 is one of the ligands of a Ca²⁺-binding site in domain G2 (Kazmirski *et al.* 2002, Solomon *et al.* 2012). Removing its negative charge weakens the coordination of the positively charged Ca²⁺ ion, which is required to stabilize G2. This is consistent with the mechanism described in the Background, in which the loss of Ca²⁺ stabilization makes G2 susceptible to aberrant cleavage by furin (Chen *et al.* 2001).
+
+![Figure 1](../files/figures/Fig_WT_vs_D187N_structure.png)
+
+**Figure 1.** Superposition of wild-type (D187) and mutant (N187) gelsolin at position 187 in domain G2. The backbones overlap (local displacement 0.123 Å; global RMSD 0.702 Å), and only the side-chain chemistry changes: the negatively charged carboxylate of aspartate is replaced by the neutral amide of asparagine. Image from the structural conservation report provided by the course instructors.
 
 ### Comparison of human gelsolin with other species
-*TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
+To look at the nature of the disease from an evolutionary perspective, we have chosen 2 homologs to compare to the human WT CDS and protein sequences, which are the horse (Equus caballus) and the mouse (Mus musculus). We have chosen these 2 homologs in particular as they share a great amount of their genes (around 90%) in common with humans and have high sequence conservation in regions related to the coding of proteins (Max Plank Society, 2026). For reasoning for the sequences used for the horse and mouse alignment and further information regarding them, please refer to `files/data/homologs_table.md `. In the alignment between the human WT nucleotide sequence and the horse's sequence, the percentage identity is 92% (2018/2205) (see `files/data/Human WT - Horse WT CDS alignment.txt`), while the percentage identity for the alignment between the human WT sequences and the mouse's sequence is 89% (2069/2327) (see `files/data/Human WT - Mouse WT CDS alignment.txt`). Such high percentage identities for high query coverages suggests similar evolutionary ancestry and generally high conservation of function. On the other hand, the gaps between differing nucleotides are not usually in groups of 3 meaning that the reading frame for the coding of the protein might not be that similar. When looking at the alignment between the human protein sequence and the horse and mouse sequence (see `files/data/homologs_table.md ` and alignment files within the same folder), the high query coverages and high percentage identities for the horse and mouse (94.66% and 93.54% respectively) showcase a great degree of conservation, higher than that of nucleotide sequences, most likely due to synonymous mutations. An E-value of 0.0 also supports this by diminishing the randomness factor. In both the horse and the mouse the position D187 (214 in precursor) is conserved and the domain G2 is mostly conserved.  *TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
 
 ## Discussion
 
 *TO DO (All): integrate sequence, structure, function and clinical consequences; compare with literature; limitations (e.g. predicted structures do not model Ca²⁺).*
+
+*Limitations: The structural comparison has several limitations. First, the structures analysed appear to be predicted models (they include the signal peptide, which is absent from experimental structures) and contain no Ca²⁺ ions, so the loss of Ca²⁺ binding caused by D187N could not be observed directly and is supported instead by experimental studies (Kazmirski *et al.* 2002, Chen *et al.* 2001). Second, a low RMSD does not imply the absence of a functional effect: a static structure does not capture changes in domain stability or dynamics, which are precisely what D187N alters by allowing G2 to sample partially unfolded conformations (Solomon *et al.* 2012).
 
 ## Conclusions
 
@@ -86,10 +97,17 @@ The human *GSN* wild-type and D187N coding sequences (CDS, 2349 nt) and protein 
 Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_001075422.1), *Mus musculus* (NM_146120.4 / NP_666232.2), and *Drosophila melanogaster* (NM_080126.4 / NP_524865.2) were retrieved from NCBI RefSeq through BLASTn and BLASTp searches restricted by organism. Curated RefSeq entries were prioritized and, when several isoforms were available, the secreted (plasma-like) isoform was chosen; members of the gelsolin superfamily that are paralogues rather than orthologues (e.g. villin, advillin, and scinderin) were excluded (`files/data/homologs_table.md`). The experimental structure of human gelsolin domain G2 was obtained from the Protein Data Bank (PDB 1KCQ), and clinical and inheritance information from OMIM (#105120). All database records were accessed in October 2026.
 
 ### Sequence alignment
-*TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
+The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information (NCBI). BLAST helps analyze and find regions of similarity between different biological sequences. 
+
+Search parameters:
+
+For all the human and homolog nucleotide sequences, the database used was the core nucleotide database (core nt). We specifically optimized for highly similar sequences (megablast).
+
+For all the human and homolog protein sequences, the database used was the the reference proteins database (refseq protein). We used the blastp (protein-protein BLAST) algorithm. 
 
 ### Structural analysis
-*TO DO (Alexander): structures used, superposition, RMSD.*
+*TO DO (Alexander): structures used, superposition, RMSD. (I(Biel) have add a little part, Alexander has to complete)*
+Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models, their superposition, global RMSD and per-residue backbone displacement were provided by the course instructors as a structural conservation report. Residue positions are given in mature-protein numbering (D187 = D214 in the precursor).
 
 ## Abbreviations
 
@@ -118,3 +136,5 @@ Page LJ, Suk JY, Huff ME *et al.* Metalloendoprotease cleavage triggers gelsolin
 Solomon JP, Page LJ, Balch WE *et al.* Gelsolin amyloidosis: genetics, biochemistry, pathology and possible strategies for therapeutic intervention. *Crit Rev Biochem Mol Biol* 2012;**47**:282–96.
 
 The UniProt Consortium. Gelsolin (GELS_HUMAN), UniProtKB P06396. https://www.uniprot.org/uniprotkb/P06396 (25 October 2026, date last accessed).
+
+“Why Do Researchers Investigate Mice?” Max Planck Society, https://www.mpg.de/10973923/why-do-scientists-investigate-mice. (26 October 2026, date last accessed).
