@@ -12,7 +12,9 @@ Gantt chart and risk analysis, version 1 (submitted 9 October 2026).
 
 ### General objective
 
-Explain how the pathogenic *GSN* variant assigned to us changes the gelsolin protein, starting from the healthy human gene we are given, and leads to Gelsolin Amyloidosis, and check whether the affected region is conserved in horse (*Equus caballus*) and a second species we are still deciding between mouse (*Mus musculus*) and fly (*Drosophila melanogaster*).
+To characterize how the pathogenic *GSN* variant D187N changes the gelsolin protein, starting from the healthy human gene, and leads to Gelsolin Amyloidosis.
+
+*(Revised on 25/10/2026 after teacher feedback on Gantt v1.)*
 
 ### Specific objectives
 
@@ -20,6 +22,8 @@ Explain how the pathogenic *GSN* variant assigned to us changes the gelsolin pro
 2. **Structure (WP3):** place both variants on an experimental gelsolin structure and describe what changes around residue 187, especially at the calcium-binding site.
 3. **Patient impact (WP4):** connect what happens to the protein with amyloid formation and with the symptoms patients have.
 4. **Evolution (WP5):** align human, horse and a second species (mouse or fly, still to decide) gelsolin and measure how conserved D187 and the main domains are.
+
+Each specific objective is developed in a work package (WP); all work packages are described in section 3.
 
 ### Milestones
 
