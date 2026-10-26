@@ -56,7 +56,7 @@ The specific objectives are:
 1. To identify the human *GSN* gene, the gelsolin protein, and the assigned variant in public databases.
 2. To compare the wild-type and D187N gelsolin sequences at the DNA and protein levels.
 3. To compare the wild-type and D187N structures and relate the chemical change at position 187 to the Ca²⁺-binding site of domain G2.
-4. To assess the conservation of gelsolin, and of position 187 in particular, in *Equus caballus*, *Mus musculus*, and *Drosophila melanogaster*.
+4. To assess the conservation of gelsolin, and of position 187 in particular, in *Equus caballus* and *Mus musculus*.
 5. To integrate these findings with the clinical picture of the disease.
 
 ## Results
@@ -102,7 +102,7 @@ This study shows how a single nucleotide change in the *GSN* gene explains the m
 ### Data sources
 The human *GSN* wild-type and D187N coding sequences (CDS, 2349 nt) and protein sequences (782 aa) were provided by the teaching team in FASTA format and identified by BLASTn and BLASTp searches against NCBI databases (100% query cover, 100% identity, E-value 0.0). They were cross-checked against the reference records of the plasma gelsolin precursor in UniProtKB/Swiss-Prot (P06396, reviewed entry), NCBI RefSeq (mRNA NM_000177.5; protein NP_000168.1), NCBI Gene (Gene ID 2934), and Ensembl (ENSG00000148180) (`files/data/gsn_records_summary.md`). The plasma isoform was selected because the disease results from the aberrant processing of secreted gelsolin (Solomon *et al.* 2012).
 
-Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_001075422.1), *Mus musculus* (NM_146120.4 / NP_666232.2), and *Drosophila melanogaster* (NM_080126.4 / NP_524865.2) were retrieved from NCBI RefSeq through BLASTn and BLASTp searches restricted by organism. Curated RefSeq entries were prioritized and, when several isoforms were available, the secreted (plasma-like) isoform was chosen; members of the gelsolin superfamily that are paralogues rather than orthologues (e.g. villin, advillin, and scinderin) were excluded (`files/data/homologs_table.md`). The experimental structure of human gelsolin domain G2 was obtained from the Protein Data Bank (PDB 1KCQ), and clinical and inheritance information from OMIM (#105120). All database records were accessed in October 2026.
+Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_001075422.1) and *Mus musculus* (NM_146120.4 / NP_666232.2) were retrieved from NCBI RefSeq through BLASTn and BLASTp searches restricted by organism. Curated RefSeq entries were prioritized and, when several isoforms were available, the secreted (plasma-like) isoform was chosen; members of the gelsolin superfamily that are paralogues rather than orthologues (e.g. villin, advillin, and scinderin) were excluded (`files/data/homologs_table.md`). The experimental structure of human gelsolin domain G2 was obtained from the Protein Data Bank (PDB 1KCQ), and clinical and inheritance information from OMIM (#105120). All database records were accessed in October 2026.
 
 ### Sequence alignment
 The main tool used for sequence matching and sequence alignment is the BLAST (Basic Local Alignment Search Tool) website provided by the National Center for Biotechnology Information (NCBI). BLAST helps analyze and find regions of similarity between different biological sequences. 
