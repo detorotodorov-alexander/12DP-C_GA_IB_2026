@@ -132,7 +132,7 @@ AGel: gelsolin amyloidosis; aa: amino acids; BLAST: Basic Local Alignment Search
 
 **Availability of data and materials:** All data, scripts, figures and sources are available in the project repository: https://github.com/detorotodorov-alexander/12DP-C_GA_IB_2026
 
-**Authors' contributions:** *TO DO (Isaac, at the end).*
+**Authors' contributions:** All authors contributed to the definition of the project scope, objectives, and roles, discussed the results, and read and approved the final manuscript. **Alexander** created and organized the repository, designed the Gantt charts (initial and final versions) and the retrospective analysis, co-developed the risk analysis, performed the human–mouse structural superposition with AlphaFold models in ChimeraX (Results, Methods, and Figure 3), and reviewed and edited the Abstract. **Arseniy** wrote the repository README and conventions, performed the pairwise CDS and protein alignments (WT vs D187N, human vs horse, and human vs mouse), and wrote the sequence and species comparison Results and the sequence alignment Methods. **Biel** wrote the project milestones and the risk analysis matrix, selected the homologous species and sequences, wrote the structural comparison Results (WT vs D187N and human vs horse; Figures 1 and 2), the Limitations, the structural analysis Methods (with Alexander), and the Abstract. **Isaac** retrieved and documented the human *GSN* records and the literature sources, maintained the project status document, restructured the report into BMC format, and wrote the Background, the Aims, and the data sources Methods. The Discussion and Conclusions were first drafted by Isaac and then reviewed and revised by all authors.
 
 ## References
 
@@ -141,6 +141,8 @@ Chen CD, Huff ME, Matteson J *et al.* Furin initiates gelsolin familial amyloido
 Kazmirski SL, Isaacson RL, An C *et al.* Loss of a metal-binding site in gelsolin leads to familial amyloidosis–Finnish type. *Nat Struct Biol* 2002;**9**:112–6.
 
 Maury CP, Kere J, Tolvanen R *et al.* Finnish hereditary amyloidosis is caused by a single nucleotide substitution in the gelsolin gene. *FEBS Lett* 1990;**276**:75–7.
+
+Meng EC, Goddard TD, Pettersen EF *et al.* UCSF ChimeraX: tools for structure building and analysis. *Protein Sci* 2023;**32**:e4792.
 
 Nag S, Larsson M, Robinson RC *et al.* Gelsolin: the tail of a molecular gymnast. *Cytoskeleton* 2013;**70**:360–84.
 
@@ -151,3 +153,5 @@ Page LJ, Suk JY, Huff ME *et al.* Metalloendoprotease cleavage triggers gelsolin
 Solomon JP, Page LJ, Balch WE *et al.* Gelsolin amyloidosis: genetics, biochemistry, pathology and possible strategies for therapeutic intervention. *Crit Rev Biochem Mol Biol* 2012;**47**:282–96.
 
 The UniProt Consortium. Gelsolin (GELS_HUMAN), UniProtKB P06396. https://www.uniprot.org/uniprotkb/P06396 (25 October 2026, date last accessed).
+
+Varadi M, Bertoni D, Magana P *et al.* AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences. *Nucleic Acids Res* 2024;**52**:D368–75.
