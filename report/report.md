@@ -65,7 +65,16 @@ The specific objectives are:
 *TO DO (Arseniy): WT vs mutant CDS and protein alignments (c.640G>A, p.Asp214Asn / D187N).*
 
 ### Structural comparison of wild-type and D187N gelsolin
-*TO DO (Alexander, Biel): local and global RMSD, chemical change Asp→Asn, Ca²⁺-binding site in domain G2.*
+
+To assess whether the D187N substitution alters the overall fold of gelsolin, the wild-type and mutant structural models were superposed. The global root-mean-square deviation (RMSD) between them was 0.702 Å, a value below 1 Å that indicates that both structures are practically identical at the level of the whole protein.
+
+At the variant position itself, the local backbone displacement between wild-type D187 and mutant N187 was only 0.123 Å, so the substitution does not distort the protein backbone in domain G2 (Figure X). The difference is restricted to the chemistry of the side chain: the carboxylate group of aspartate, which is negatively charged at physiological pH, is replaced by the uncharged amide group of asparagine. Both side chains have a similar size and occupy the same position, but asparagine loses the negative charge and one of the two carboxylate oxygen atoms.
+
+These results indicate that the effect of D187N is chemical rather than structural. In wild-type gelsolin, the side chain of D187 is one of the ligands of a Ca²⁺-binding site in domain G2 (Kazmirski *et al.* 2002, Solomon *et al.* 2012). Removing its negative charge weakens the coordination of the positively charged Ca²⁺ ion, which is required to stabilize G2. This is consistent with the mechanism described in the Background, in which the loss of Ca²⁺ stabilization makes G2 susceptible to aberrant cleavage by furin (Chen *et al.* 2001).
+
+![Figure 1](../files/figures/Fig_WT_vs_D187N_structure.png)
+
+**Figure 1.** Superposition of wild-type (D187) and mutant (N187) gelsolin at position 187 in domain G2. The backbones overlap (local displacement 0.123 Å; global RMSD 0.702 Å), and only the side-chain chemistry changes: the negatively charged carboxylate of aspartate is replaced by the neutral amide of asparagine. Image from the structural conservation report provided by the course instructors.
 
 ### Comparison of human gelsolin with other species
 *TO DO (Arseniy, Alexander): horse (mandatory), mouse and fly; identity, conservation of D187 and domain G2; human–horse structural superposition.*
@@ -73,6 +82,8 @@ The specific objectives are:
 ## Discussion
 
 *TO DO (All): integrate sequence, structure, function and clinical consequences; compare with literature; limitations (e.g. predicted structures do not model Ca²⁺).*
+
+*Limitations: The structural comparison has several limitations. First, the structures analysed appear to be predicted models (they include the signal peptide, which is absent from experimental structures) and contain no Ca²⁺ ions, so the loss of Ca²⁺ binding caused by D187N could not be observed directly and is supported instead by experimental studies (Kazmirski *et al.* 2002, Chen *et al.* 2001). Second, a low RMSD does not imply the absence of a functional effect: a static structure does not capture changes in domain stability or dynamics, which are precisely what D187N alters by allowing G2 to sample partially unfolded conformations (Solomon *et al.* 2012).
 
 ## Conclusions
 
@@ -89,7 +100,8 @@ Orthologous gelsolin sequences of *Equus caballus* (NM_001081953.1 / NP_00107542
 *TO DO (Arseniy): tools, parameters (BLASTn/BLASTp, etc.).*
 
 ### Structural analysis
-*TO DO (Alexander): structures used, superposition, RMSD.*
+*TO DO (Alexander): structures used, superposition, RMSD. (I(Biel) have add a little part, Alexander has to complete)*
+Wild-type, D187N mutant and horse (*Equus caballus*) gelsolin structural models, their superposition, global RMSD and per-residue backbone displacement were provided by the course instructors as a structural conservation report. Residue positions are given in mature-protein numbering (D187 = D214 in the precursor).
 
 ## Abbreviations
 
