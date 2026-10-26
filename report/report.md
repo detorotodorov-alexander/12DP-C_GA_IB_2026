@@ -138,5 +138,3 @@ Page LJ, Suk JY, Huff ME *et al.* Metalloendoprotease cleavage triggers gelsolin
 Solomon JP, Page LJ, Balch WE *et al.* Gelsolin amyloidosis: genetics, biochemistry, pathology and possible strategies for therapeutic intervention. *Crit Rev Biochem Mol Biol* 2012;**47**:282–96.
 
 The UniProt Consortium. Gelsolin (GELS_HUMAN), UniProtKB P06396. https://www.uniprot.org/uniprotkb/P06396 (25 October 2026, date last accessed).
-
-“Why Do Researchers Investigate Mice?” Max Planck Society, https://www.mpg.de/10973923/why-do-scientists-investigate-mice. (26 October 2026, date last accessed).
