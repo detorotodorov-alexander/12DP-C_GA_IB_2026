@@ -1,0 +1,57 @@
+Query: GA_protein_WT Query ID: lcl|Query_1412239 Length: 782
+
+
+>GA_protein_mutant
+Sequence ID: Query_1412241 Length: 782
+Range 1: 1 to 782
+
+Score:1619 bits(4193), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:781/782(99%), Positives:782/782(100%), Gaps:0/782(0%)
+
+Query  1    MAPHRPAPALLCALSLALCALSLPVRAATASRGASQAGAPQGRVPEARPNSMVVEHPEFL  60
+Sbjct  1    ............................................................  60
+
+Query  61   KAGKEPGLQIWRVEKFDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNEC  120
+Sbjct  61   ............................................................  120
+
+Query  121  SQDESGAAAIFTVQLDDYLNGRAVQHREVQGFESATFLGYFKSGLKYKKGGVASGFKHVV  180
+Sbjct  121  ............................................................  180
+
+Query  181  PNEVVVQRLFQVKGRRVVRATEVPVSWESFNNGDCFILDLGNNIHQWCGSNSNRYERLKA  240
+Sbjct  181  .................................N..........................  240
+
+Query  241  TQVSKGIRDNERSGRARVHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANRKLAKL  300
+Sbjct  241  ............................................................  300
+
+Query  301  YKVSNGAGTMSVSLVADENPFAQGALKSEDCFILDHGKDGKIFVWKGKQANTEERKAALK  360
+Sbjct  301  ............................................................  360
+
+Query  361  TASDFITKMDYPKQTQVSVLPEGGETPLFKQFFKNWRDPDQTDGLGLSYLSSHIANVERV  420
+Sbjct  361  ............................................................  420
+
+Query  421  PFDAATLHTSTAMAAQHGMDDDGTGQKQIWRIEGSNKVPVDPATYGQFYGGDSYIILYNY  480
+Sbjct  421  ............................................................  480
+
+Query  481  RHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEELGGTPVQSRVVQGKEPAHLMSLFG  540
+Sbjct  481  ............................................................  540
+
+Query  541  GKPMIIYKGGTSREGGQTAPASTRLFQVRANSAGATRAVEVLPKAGALNSNDAFVLKTPS  600
+Sbjct  541  ............................................................  600
+
+Query  601  AAYLWVGTGASEAEKTGAQELLRVLRAQPVQVAEGSEPDGFWEALGGKAAYRTSPRLKDK  660
+Sbjct  601  ............................................................  660
+
+Query  661  KMDAHPPRLFACSNKIGRFVIEEVPGELMQEDLATDDVMLLDTWDQVFVWVGKDSQEEEK  720
+Sbjct  661  ............................................................  720
+
+Query  721  TEALTSAKRYIETDPANRDRRTPITVVKQGFEPPSFVGWFLGWDDDYWSVDPLDRAMAEL  780
+Sbjct  721  ............................................................  780
+
+Query  781  AA  782
+Sbjct  781  ..  782
+
+
+
+
+
