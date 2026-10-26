@@ -14,7 +14,7 @@ This repository contains our bioinformatic study of Gelsolin Amyloidosis (famili
 - `gantt/gantt_live.md` – final gantt chart with real dates and retrospective analysis.
 - `references/README.md` - annotated list of all the sources used in the report.
 - `report/project_plan.md` - all of the objectives, work packages, and risk analysis related to the project.
-  
+- `status/project_status.md` - live project status document with tasks, dates, and risks.
 
 ## Repository Structure
 - `report.md` — final report and project plan document.
