@@ -16,11 +16,11 @@ Format rules (BMC template):
 
 ## Abstract
 
-**Background:** *TO DO (All, at the end).*
+**Background:** Gelsolin amyloidosis (AGel), also known as familial amyloidosis of Finnish type, is an autosomal dominant systemic amyloidosis characterized by corneal lattice dystrophy, cranial neuropathy, and cutis laxa. It is caused by variants in the *GSN* gene, which encodes gelsolin, a Ca²⁺-regulated actin-binding protein formed by six homologous domains (G1–G6). This study aimed to explain how the variant assigned to our team alters the gelsolin sequence and structure to cause the disease, and to assess the conservation of the affected position in other species.
 
-**Results:** *TO DO (All, at the end).*
+**Results:** Pairwise alignment of the provided wild-type (WT) and mutant coding DNA sequences (CDS) identified a single missense substitution, c.640G>A, which changes aspartate to asparagine at position 214 of the precursor (p.Asp214Asn), corresponding to D187N in the mature protein. Superposition of WT and mutant structural models showed a global root-mean-square deviation (RMSD) of 0.702 Å and a local backbone displacement of only 0.123 Å at position 187, indicating that the overall fold is preserved. The substitution instead removes the negatively charged carboxylate of a residue that coordinates Ca²⁺ in domain G2. Comparison with horse (*Equus caballus*) and mouse (*Mus musculus*) gelsolin showed high identity at the CDS (92% and 89%) and protein (94.66% and 93.54%) levels, and the residue equivalent to human D187 was conserved in both species. The human and horse structural models superposed with a global RMSD of 1.05 Å.
 
-**Conclusions:** *TO DO (All, at the end).*
+**Conclusions:** D187N causes gelsolin amyloidosis through a subtle chemical change rather than a large structural rearrangement: the loss of a Ca²⁺-binding ligand destabilizes domain G2, which, according to previous experimental studies, leads to aberrant proteolysis by furin and membrane-type 1 matrix metalloproteinase (MT1-MMP) and to the formation of amyloidogenic fragments. The conservation of this residue in other mammals supports its functional importance and illustrates how sequence and comparative analyses can identify critical positions that are not evident as large structural differences.
 
 ## Keywords
 
