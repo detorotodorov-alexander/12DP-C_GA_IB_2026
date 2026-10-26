@@ -95,7 +95,7 @@ The structural comparison has several limitations. First, the structures analyse
 
 ## Conclusions
 
-*TO DO (All).*
+This study shows how a single nucleotide change in the *GSN* gene explains the molecular basis of gelsolin amyloidosis. The c.640G>A substitution replaces aspartate with asparagine at position 187 of plasma gelsolin without altering the overall protein fold, but removes the negative charge of a residue that coordinates Ca²⁺ in domain G2. The resulting loss of Ca²⁺ stabilization makes G2 susceptible to aberrant proteolysis and to the formation of amyloidogenic fragments that deposit systemically. The conservation of this position and of the overall gelsolin structure in horse and mouse highlights the functional importance of the Ca²⁺-binding site affected by the variant. Together, these findings illustrate that disease-causing variants can act through subtle chemical changes that are not visible as large structural differences, and that comparative analysis across species helps identify functionally critical residues.
 
 ## Methods
 
